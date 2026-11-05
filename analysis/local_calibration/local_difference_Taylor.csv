@@ -1,0 +1,2 @@
+"contrast","estimate","SE","lower95","upper95","df","scope"
+"low minus high observed positivity in above-cutoff band",0.00726749757028707,0.00980189786801093,-0.0124745381431377,0.0270095332837118,45,"Conditional on frozen model and reviewer-selected single-sided band; no refit, no bootstrap, no selection adjustment"

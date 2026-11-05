@@ -1,0 +1,139 @@
+﻿period,group,variable,category,n,valid_n,cases,weighted_value,weighted_sd,display
+dev,overall,Participants,,12781,12781,436,,,"12,781"
+dev,overall,"Age, years",,12781,12781,436,45.67758178687993,16.287447549028695,45.68 (16.29)
+dev,overall,"BMI, kg/m²",,12781,12781,436,28.158354076369587,6.28314935933656,28.16 (6.28)
+dev,overall,"Waist circumference, cm",,12781,12781,436,96.93471273470718,15.502535871578951,96.93 (15.50)
+dev,overall,Waist-to-height ratio,,12781,12781,436,0.5742620790074833,0.09121121155463179,0.57 (0.09)
+dev,overall,Family income-to-poverty ratio,,12781,11727,436,3.0279096763568343,1.6596889859723993,3.03 (1.66)
+dev,overall,Male,,6291,12781,436,48.66456155004376,,"6,291 (48.7%)"
+dev,overall,Family history of diabetes,,4611,12781,436,33.58616751217971,,"4,611 (33.6%)"
+dev,overall,Self-reported hypertension,,3756,12781,436,26.199835031183515,,"3,756 (26.2%)"
+dev,overall,Physically inactive,,6975,12781,436,52.538351621483685,,"6,975 (52.5%)"
+dev,overall,Insured,,9411,12781,436,79.06500995995358,,"9,411 (79.1%)"
+dev,overall,Usual place for care,,10529,12781,436,84.3388193785924,,"10,529 (84.3%)"
+dev,overall,HbA1c ≥6.5%,,436,12781,436,2.228202892169758,,436 (2.2%)
+dev,overall,Race/ethnicity,Mexican American,1978,12781,436,8.249175803266919,,"1,978 (8.2%)"
+dev,overall,Race/ethnicity,Other Hispanic,1342,12781,436,5.4825786762454864,,"1,342 (5.5%)"
+dev,overall,Race/ethnicity,Non-Hispanic White,5890,12781,436,69.56907699467632,,"5,890 (69.6%)"
+dev,overall,Race/ethnicity,Non-Hispanic Black,2474,12781,436,10.08652625601438,,"2,474 (10.1%)"
+dev,overall,Race/ethnicity,Other / multiracial,1097,12781,436,6.612642269796891,,"1,097 (6.6%)"
+dev,overall,Education,Less than 9th grade,1303,12769,436,5.357852645611939,,"1,303 (5.4%)"
+dev,overall,Education,9th–11th grade,1946,12769,436,11.770130736283473,,"1,946 (11.8%)"
+dev,overall,Education,High school / GED,2953,12769,436,22.472989938117173,,"2,953 (22.5%)"
+dev,overall,Education,Some college / AA,3628,12769,436,30.61530596879516,,"3,628 (30.6%)"
+dev,overall,Education,College graduate or above,2939,12769,436,29.78372071119227,,"2,939 (29.8%)"
+dev,high,Participants,,8592,8592,292,,,"8,592"
+dev,high,"Age, years",,8592,8592,292,48.78181352768562,16.39075479421485,48.78 (16.39)
+dev,high,"BMI, kg/m²",,8592,8592,292,28.24339482606253,6.223519984784651,28.24 (6.22)
+dev,high,"Waist circumference, cm",,8592,8592,292,97.4562090182641,15.316195583006797,97.46 (15.32)
+dev,high,Waist-to-height ratio,,8592,8592,292,0.5776998219286374,0.08934510227110036,0.58 (0.09)
+dev,high,Family income-to-poverty ratio,,8592,7970,292,3.3770584758714848,1.5828738160355802,3.38 (1.58)
+dev,high,Male,,3890,8592,292,44.657537074886044,,"3,890 (44.7%)"
+dev,high,Family history of diabetes,,3117,8592,292,33.90598792323304,,"3,117 (33.9%)"
+dev,high,Self-reported hypertension,,3054,8592,292,30.657764825010315,,"3,054 (30.7%)"
+dev,high,Physically inactive,,4966,8592,292,55.19942644860397,,"4,966 (55.2%)"
+dev,high,Insured,,8592,8592,292,100.0,,"8,592 (100.0%)"
+dev,high,Usual place for care,,8592,8592,292,100.0,,"8,592 (100.0%)"
+dev,high,HbA1c ≥6.5%,,292,8592,292,2.1015166634400404,,292 (2.1%)
+dev,high,Race/ethnicity,Mexican American,855,8592,292,4.432395920320854,,855 (4.4%)
+dev,high,Race/ethnicity,Other Hispanic,781,8592,292,4.050232015343239,,781 (4.1%)
+dev,high,Race/ethnicity,Non-Hispanic White,4530,8592,292,76.33064841923441,,"4,530 (76.3%)"
+dev,high,Race/ethnicity,Non-Hispanic Black,1710,8592,292,9.270262262798369,,"1,710 (9.3%)"
+dev,high,Race/ethnicity,Other / multiracial,716,8592,292,5.916461382303128,,716 (5.9%)
+dev,high,Education,Less than 9th grade,646,8585,292,3.623007605926629,,646 (3.6%)
+dev,high,Education,9th–11th grade,1093,8585,292,9.415989405444556,,"1,093 (9.4%)"
+dev,high,Education,High school / GED,1907,8585,292,20.946242121434967,,"1,907 (20.9%)"
+dev,high,Education,Some college / AA,2508,8585,292,30.691329424048046,,"2,508 (30.7%)"
+dev,high,Education,College graduate or above,2431,8585,292,35.32343144314578,,"2,431 (35.3%)"
+dev,low,Participants,,4189,4189,144,,,"4,189"
+dev,low,"Age, years",,4189,4189,144,37.687717027273806,12.95961142471909,37.69 (12.96)
+dev,low,"BMI, kg/m²",,4189,4189,144,27.939470904675122,6.4289142206094745,27.94 (6.43)
+dev,low,"Waist circumference, cm",,4189,4189,144,95.5924531593394,15.893648931169572,95.59 (15.89)
+dev,low,Waist-to-height ratio,,4189,4189,144,0.5654138024251474,0.09527857324035592,0.57 (0.10)
+dev,low,Family income-to-poverty ratio,,4189,3757,144,2.103259472842583,1.4954537514154875,2.10 (1.50)
+dev,low,Male,,2401,4189,144,58.978090409404075,,"2,401 (59.0%)"
+dev,low,Family history of diabetes,,1494,4189,144,32.76299384312419,,"1,494 (32.8%)"
+dev,low,Self-reported hypertension,,702,4189,144,14.725738013139894,,702 (14.7%)
+dev,low,Physically inactive,,2009,4189,144,45.689111693808364,,"2,009 (45.7%)"
+dev,low,Insured,,819,4189,144,25.18123029076617,,819 (25.2%)
+dev,low,Usual place for care,,1937,4189,144,44.02909845925996,,"1,937 (44.0%)"
+dev,low,HbA1c ≥6.5%,,144,4189,144,2.554275788451741,,144 (2.6%)
+dev,low,Race/ethnicity,Mexican American,1123,4189,144,18.073041296636745,,"1,123 (18.1%)"
+dev,low,Race/ethnicity,Other Hispanic,561,4189,144,9.169241614145882,,561 (9.2%)
+dev,low,Race/ethnicity,Non-Hispanic White,1360,4189,144,52.16572384469056,,"1,360 (52.2%)"
+dev,low,Race/ethnicity,Non-Hispanic Black,764,4189,144,12.1874772991344,,764 (12.2%)
+dev,low,Race/ethnicity,Other / multiracial,381,4189,144,8.4045159453924,,381 (8.4%)
+dev,low,Education,Less than 9th grade,657,4184,144,9.82719725584961,,657 (9.8%)
+dev,low,Education,9th–11th grade,853,4184,144,17.83491959525338,,853 (17.8%)
+dev,low,Education,High school / GED,1046,4184,144,26.406230065960802,,"1,046 (26.4%)"
+dev,low,Education,Some college / AA,1120,4184,144,30.419452729910006,,"1,120 (30.4%)"
+dev,low,Education,College graduate or above,508,4184,144,15.512200353026211,,508 (15.5%)
+eval,overall,Participants,,11848,11848,356,,,"11,848"
+eval,overall,"Age, years",,11848,11848,356,46.18990133876175,16.705043458456444,46.19 (16.71)
+eval,overall,"BMI, kg/m²",,11848,11848,356,28.870724706806957,6.777597530535538,28.87 (6.78)
+eval,overall,"Waist circumference, cm",,11848,11848,356,98.69750739810941,16.333285482306312,98.70 (16.33)
+eval,overall,Waist-to-height ratio,,11848,11848,356,0.5869629051802897,0.09713823611110922,0.59 (0.10)
+eval,overall,Family income-to-poverty ratio,,11848,10710,356,3.046661950719182,1.6491387096325856,3.05 (1.65)
+eval,overall,Male,,5673,11848,356,48.18646049524253,,"5,673 (48.2%)"
+eval,overall,Family history of diabetes,,4682,11848,356,38.32040953720316,,"4,682 (38.3%)"
+eval,overall,Self-reported hypertension,,3646,11848,356,27.973089532977735,,"3,646 (28.0%)"
+eval,overall,Physically inactive,,6676,11848,356,54.525598098475506,,"6,676 (54.5%)"
+eval,overall,Insured,,9528,11848,356,84.01513497966359,,"9,528 (84.0%)"
+eval,overall,Usual place for care,,9505,11848,356,81.31097157700655,,"9,505 (81.3%)"
+eval,overall,HbA1c ≥6.5%,,356,11848,356,1.88270646624825,,356 (1.9%)
+eval,overall,Race/ethnicity,Mexican American,1705,11848,356,8.897569316700487,,"1,705 (8.9%)"
+eval,overall,Race/ethnicity,Other Hispanic,1278,11848,356,6.520200452657163,,"1,278 (6.5%)"
+eval,overall,Race/ethnicity,Non-Hispanic White,4527,11848,356,65.15576980339705,,"4,527 (65.2%)"
+eval,overall,Race/ethnicity,Non-Hispanic Black,2419,11848,356,10.4676810959114,,"2,419 (10.5%)"
+eval,overall,Race/ethnicity,Other / multiracial,1919,11848,356,8.958779331333885,,"1,919 (9.0%)"
+eval,overall,Education,Less than 9th grade,956,11842,356,4.1357511557663695,,956 (4.1%)
+eval,overall,Education,9th–11th grade,1376,11842,356,8.227859682026134,,"1,376 (8.2%)"
+eval,overall,Education,High school / GED,2687,11842,356,23.202677953576867,,"2,687 (23.2%)"
+eval,overall,Education,Some college / AA,3713,11842,356,31.84189867272496,,"3,713 (31.8%)"
+eval,overall,Education,College graduate or above,3110,11842,356,32.591812535905675,,"3,110 (32.6%)"
+eval,high,Participants,,8227,8227,251,,,"8,227"
+eval,high,"Age, years",,8227,8227,251,49.231964982305435,16.79589757436895,49.23 (16.80)
+eval,high,"BMI, kg/m²",,8227,8227,251,28.990193330020546,6.811897019126496,28.99 (6.81)
+eval,high,"Waist circumference, cm",,8227,8227,251,99.27601622439356,16.272313479100752,99.28 (16.27)
+eval,high,Waist-to-height ratio,,8227,8227,251,0.5915041323253565,0.09643700796096037,0.59 (0.10)
+eval,high,Family income-to-poverty ratio,,8227,7489,251,3.3217737327788806,1.5934435541815102,3.32 (1.59)
+eval,high,Male,,3610,8227,251,43.8167167453876,,"3,610 (43.8%)"
+eval,high,Family history of diabetes,,3288,8227,251,38.28812386436371,,"3,288 (38.3%)"
+eval,high,Self-reported hypertension,,2975,8227,251,32.070146922300545,,"2,975 (32.1%)"
+eval,high,Physically inactive,,4833,8227,251,56.598490168000396,,"4,833 (56.6%)"
+eval,high,Insured,,8227,8227,251,100.0,,"8,227 (100.0%)"
+eval,high,Usual place for care,,8227,8227,251,100.0,,"8,227 (100.0%)"
+eval,high,HbA1c ≥6.5%,,251,8227,251,1.8591023403463631,,251 (1.9%)
+eval,high,Race/ethnicity,Mexican American,893,8227,251,5.9252084751472545,,893 (5.9%)
+eval,high,Race/ethnicity,Other Hispanic,780,8227,251,5.127919356179479,,780 (5.1%)
+eval,high,Race/ethnicity,Non-Hispanic White,3480,8227,251,70.41262239427869,,"3,480 (70.4%)"
+eval,high,Race/ethnicity,Non-Hispanic Black,1700,8227,251,9.683051963426319,,"1,700 (9.7%)"
+eval,high,Race/ethnicity,Other / multiracial,1374,8227,251,8.851197810968253,,"1,374 (8.9%)"
+eval,high,Education,Less than 9th grade,520,8222,251,2.719460383646881,,520 (2.7%)
+eval,high,Education,9th–11th grade,773,8222,251,6.210966662273562,,773 (6.2%)
+eval,high,Education,High school / GED,1765,8222,251,21.434229471681245,,"1,765 (21.4%)"
+eval,high,Education,Some college / AA,2686,8222,251,32.70753605073228,,"2,686 (32.7%)"
+eval,high,Education,College graduate or above,2478,8222,251,36.92780743166603,,"2,478 (36.9%)"
+eval,low,Participants,,3621,3621,105,,,"3,621"
+eval,low,"Age, years",,3621,3621,105,38.17015716391791,13.502649900301074,38.17 (13.50)
+eval,low,"BMI, kg/m²",,3621,3621,105,28.5557714686894,6.676091682613381,28.56 (6.68)
+eval,low,"Waist circumference, cm",,3621,3621,105,97.17239374720522,16.395394469359438,97.17 (16.40)
+eval,low,Waist-to-height ratio,,3621,3621,105,0.5749909400241406,0.09795913354312485,0.57 (0.10)
+eval,low,Family income-to-poverty ratio,,3621,3221,105,2.3019611380276124,1.5649470727842203,2.30 (1.56)
+eval,low,Male,,2063,3621,105,59.70634669415076,,"2,063 (59.7%)"
+eval,low,Family history of diabetes,,1394,3621,105,38.40552374486765,,"1,394 (38.4%)"
+eval,low,Self-reported hypertension,,671,3621,105,17.172082064985613,,671 (17.2%)
+eval,low,Physically inactive,,1843,3621,105,49.06086558542161,,"1,843 (49.1%)"
+eval,low,Insured,,1301,3621,105,41.87448864421249,,"1,301 (41.9%)"
+eval,low,Usual place for care,,1278,3621,105,32.04138211693957,,"1,278 (32.0%)"
+eval,low,HbA1c ≥6.5%,,105,3621,105,1.9449336493006797,,105 (1.9%)
+eval,low,Race/ethnicity,Mexican American,812,3621,105,16.733557099261226,,812 (16.7%)
+eval,low,Race/ethnicity,Other Hispanic,498,3621,105,10.190649043343194,,498 (10.2%)
+eval,low,Race/ethnicity,Non-Hispanic White,1047,3621,105,51.297212625209475,,"1,047 (51.3%)"
+eval,low,Race/ethnicity,Non-Hispanic Black,719,3621,105,12.536186443593706,,719 (12.5%)
+eval,low,Race/ethnicity,Other / multiracial,545,3621,105,9.24239478859239,,545 (9.2%)
+eval,low,Education,Less than 9th grade,436,3620,105,7.869711466765189,,436 (7.9%)
+eval,low,Education,9th–11th grade,603,3620,105,13.545269521544096,,603 (13.5%)
+eval,low,Education,High school / GED,922,3620,105,27.8650796110857,,922 (27.9%)
+eval,low,Education,Some college / AA,1027,3620,105,29.559700922922964,,"1,027 (29.6%)"
+eval,low,Education,College graduate or above,632,3620,105,21.16023847768206,,632 (21.2%)

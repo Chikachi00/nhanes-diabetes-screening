@@ -1,0 +1,11 @@
+model,term,coefficient_QA,status
+V5nf,intercept,-4.936452125852377,independently reconstructed from development data; not an exported original R model object
+V5nf,a,0.30906608854173323,independently reconstructed from development data; not an exported original R model object
+V5nf,w,0.9856452156473199,independently reconstructed from development data; not an exported original R model object
+V5nf,male,0.6105219721330999,independently reconstructed from development data; not an exported original R model object
+V5nf,htn,0.035757763457673425,independently reconstructed from development data; not an exported original R model object
+V5nf,inactive,0.16922347689823522,independently reconstructed from development data; not an exported original R model object
+F3,intercept,-4.82578103304624,independently reconstructed from development data; not an exported original R model object
+F3,a,0.3198022622321163,independently reconstructed from development data; not an exported original R model object
+F3,w,0.9974182442576424,independently reconstructed from development data; not an exported original R model object
+F3,male,0.592374575363478,independently reconstructed from development data; not an exported original R model object

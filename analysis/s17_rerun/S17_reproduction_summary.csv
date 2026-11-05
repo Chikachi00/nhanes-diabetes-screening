@@ -1,0 +1,14 @@
+"table","column","n","max_absolute_difference"
+"results","estimate_difference",660,4.9737991503207e-14
+"results","lower95_difference",660,5.6843418860808e-14
+"results","upper95_difference",660,2.70006239588838e-13
+"curves","sens_difference",244,4.44089209850063e-16
+"curves","lower95_difference",244,4.9960036108132e-16
+"curves","upper95_difference",244,4.44089209850063e-16
+"differences","diff_difference",183,4.16333634234434e-16
+"differences","lower95_difference",183,4.9960036108132e-16
+"differences","upper95_difference",183,4.85722573273506e-17
+"key_budgets","budget_difference",9,4.44089209850063e-16
+"key_budgets","diff_difference",9,1.66533453693773e-16
+"key_budgets","lower95_difference",9,2.4980018054066e-16
+"key_budgets","upper95_difference",9,3.81639164714898e-17

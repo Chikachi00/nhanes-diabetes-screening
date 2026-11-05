@@ -1,0 +1,7 @@
+factor,original_points,NHANES_variables,availability_2007_2018,main_operationalization,missing_rule,source_difference
+age,"<40:0;40-49:1;50-59:2;>=60:3",RIDAGEYR,6/6,age in completed years,incomplete when missing,none
+sex,"female:0;male:1",RIAGENDR,6/6,1 male and 2 female,incomplete when other or missing,none
+obesity,"normal:0;overweight:1;obese:2;extreme:3",BMXBMI+BMXWAIST,6/6,"max BMI class 25/30/40 and waist class male 37/40/50 inches female 31.5/35/49 inches",incomplete when either measure absent,BMI-only sensitivity separately
+family_history,"no:0;yes:1",MCQ300C,6/6,2 no and 1 yes,incomplete when other or missing,NHANES question proxy
+hypertension,"no:0;yes:1",BPQ020,6/6,2 no and 1 yes,incomplete when other or missing,original study additionally used medication and measured blood pressure
+activity,"no:0;yes:-1","PAQ605/610;PAQ620/625;PAQ635/640;PAQ650/655;PAQ665/670",6/6,any of five domains at least 5 days per week,incomplete if no positive domain and any domain unknown,original study asked more active than peers

@@ -1,0 +1,1415 @@
+{
+  "baseline": "v8 prose with unchanged v7 scientific analysis archive",
+  "files": [
+    {
+      "path": "analysis/discrimination_v7/auc_replicates.csv",
+      "source": "v7 frozen scientific archive/analysis/discrimination_v7/auc_replicates.csv",
+      "sha256": "8965c2c11fc3252196e34d7fef7d85781f54c5f4172a1ef24c614a42d4634747",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/discrimination_v7/auc_summary.csv",
+      "source": "v7 frozen scientific archive/analysis/discrimination_v7/auc_summary.csv",
+      "sha256": "1c9ec0d1a81ca6f38099b3a5dcbf3f41ea5bb1082d4b3a5b2bb68a804dd7de2b",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/discrimination_v7/auc_v7.py",
+      "source": "v7 frozen scientific archive/analysis/discrimination_v7/auc_v7.py",
+      "sha256": "6f8b266e0100206d34c3bec11a0d3072f0e2ab2aeb7e5d0639b5e0aa355077b4",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/discrimination_v7/coefficient_summary.csv",
+      "source": "v7 frozen scientific archive/analysis/discrimination_v7/coefficient_summary.csv",
+      "sha256": "c87195172a67b3c9cccb57c173ce578550cd75e11e4170487c6fbd247b042aac",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/discrimination_v7/frozen_parameters.csv",
+      "source": "v7 frozen scientific archive/analysis/discrimination_v7/frozen_parameters.csv",
+      "sha256": "eaca089a963ad25800720ff0acdfe5f082875aa2185792b68fbd3626f1ad772c",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/local_calibration/local_calibration_by_access.csv",
+      "source": "v7 frozen scientific archive/analysis/local_calibration/local_calibration_by_access.csv",
+      "sha256": "0389927b4298707c161506daa67594ffa19d8621d0703f79b49138e63f349ca0",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/local_calibration/local_calibration_v5.R",
+      "source": "v7 frozen scientific archive/analysis/local_calibration/local_calibration_v5.R",
+      "sha256": "2a5085346967f85fd838936155fca2be10681ca2bedbd4a1e4835bd4573c129b",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/local_calibration/local_difference_Taylor.csv",
+      "source": "v7 frozen scientific archive/analysis/local_calibration/local_difference_Taylor.csv",
+      "sha256": "05d1863e5f872e1a2bd60e2c0a6fee0e47ed6502e04db17d957624263583087d",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/predict_s17_derived.R",
+      "source": "v7 frozen scientific archive/analysis/predict_s17_derived.R",
+      "sha256": "cda99542a7af8c6175dfacb88f25a7717d78cce5c78d9f90eef16a3489e2f9a1",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/rerun_s17.R",
+      "source": "v7 frozen scientific archive/analysis/rerun_s17.R",
+      "sha256": "e2b3c2f3eceab823ade5024fe420b71f9eb00289360e827cd1081183a2cb0569",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/input_md5.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/input_md5.csv",
+      "sha256": "f595a4a1278c3131b21e8bbb48670dfe586ada29202f957fbd09c1fe97f1bb98",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_absolute_proportions_logit_CI.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_absolute_proportions_logit_CI.csv",
+      "sha256": "1cd7b0e65f3621ab58e48afb6d510906eb1e3185a9664014c6d1cd9e24643c08",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_access_gaps_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_access_gaps_rerun.csv",
+      "sha256": "5a2b2eb980560c2c7421adb37d543a7074ad29ec000cd8109a09426d14849ac2",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_auc_calibration_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_auc_calibration_rerun.csv",
+      "sha256": "b642516029982a01e9eef47a8b426730294ff432d10ff93d0bd65b3d57cbb912",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_bootstrap_curve_replicates.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_bootstrap_curve_replicates.csv",
+      "sha256": "15fe67885ca5e21df84213a7c8a6c6f779843b8308aef9741b5b5188a054c4af",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_bootstrap_effective_counts.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_bootstrap_effective_counts.csv",
+      "sha256": "1b17fb60758bb5de4f72cc62f853b267a9f04cb286ec39dcfac1d92ad04a386e",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_bootstrap_PSU_multipliers.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_bootstrap_PSU_multipliers.csv",
+      "sha256": "8f315a8232ea06f85190d29b8e5f884d881dccdf2ffd729cd83f6ff512888ede",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_comparison_curves.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_comparison_curves.csv",
+      "sha256": "1bb693595bb371b633b4bceaa6c990ec79247302ffc92a8fdfddc307c1d2f986",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_comparison_differences.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_comparison_differences.csv",
+      "sha256": "74b092b00bbd61bc12a0ab7719b4c515456ef97dadb974062b02970b7e0e74d9",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_comparison_key_budgets.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_comparison_key_budgets.csv",
+      "sha256": "edb76f1fcb644773f7aef53bb01a2b7a8358ca20aba22396256190e05e830ca3",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_comparison_results.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_comparison_results.csv",
+      "sha256": "1324f9abb38da51c69984b6f1557556f4610460584f4037770f77c730edaee34",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_derived_thresholds_17digits.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_derived_thresholds_17digits.csv",
+      "sha256": "b7bb15ba98e2faadf51a764895f08920f150d7663f469a9b866df2dd52501aef",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_export_checks.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_export_checks.csv",
+      "sha256": "3db738faa7ce124e22b694ee835f22cc8b918a84e5f891ccb0b0459e6c22f324",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_family_curves_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_family_curves_rerun.csv",
+      "sha256": "5864c9eb0211e73d1cd2e6a5a0cd3d84e831f6acabc491839690a439dc8d2fba",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_family_differences_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_family_differences_rerun.csv",
+      "sha256": "a491ae6f8a671ed3666e5964d48dc3b926a17e7453d8e34a8e7fdd785c2093bb",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_key_budgets_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_key_budgets_rerun.csv",
+      "sha256": "a727ae7c5cafe5d21cc018f804f50a028a95f59b25d8b5e57e4057fb209f0818",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_logit_vs_original_Taylor.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_logit_vs_original_Taylor.csv",
+      "sha256": "aba9dc21ef88ae8a3f7349aed684cc31f0ec8be624b88f341fb8f4846e10592f",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_reproduction_summary.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_reproduction_summary.csv",
+      "sha256": "337c83685f199d0c8ab67e2a2f3d4b806d8dd359e8a7f4d64e368113fc9ac83e",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_saved_model_prediction_checks.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_saved_model_prediction_checks.csv",
+      "sha256": "cc17fc097296ea7a7b8de35cb4ef9e54c3170e68db35dca46016ed5fd09f0385",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_source_R_full_precision_coefficients.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_source_R_full_precision_coefficients.csv",
+      "sha256": "8b69e1cf2c98ae901891e97e385ea50e58ce0e3362e718a8f8d36c86fc8dffb9",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_source_R_preprocessing.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_source_R_preprocessing.csv",
+      "sha256": "1c30f6e00b31349ab9ec17d2922cd4e8a40eadeeb7abf34a2423b780e5e089ca",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_Taylor_results_source_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_Taylor_results_source_rerun.csv",
+      "sha256": "8ef2aa1d27576bf0296ea6cc8e5cd698404cbb9c0b58e91a50a679ac4a26a443",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_threshold_development_targets.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_threshold_development_targets.csv",
+      "sha256": "c34d398b8db25f5f1a13875f5eb3731725ccc020b5779f6e02753618a0a0fa18",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/s17_rerun/S17_thresholds_rerun.csv",
+      "source": "v7 frozen scientific archive/analysis/s17_rerun/S17_thresholds_rerun.csv",
+      "sha256": "54016922e002ce579358c121b812d1149d84180cbc74559b36e993145f206303",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/verify_s17_exports.R",
+      "source": "v7 frozen scientific archive/analysis/verify_s17_exports.R",
+      "sha256": "b611b1a64a638db89850a594dc567bcdf4f4cc3d474d8a44e60a1c1122997989",
+      "unchanged": true
+    },
+    {
+      "path": "analysis/verify_s17_predictions.R",
+      "source": "v7 frozen scientific archive/analysis/verify_s17_predictions.R",
+      "sha256": "693cb76145a28b01107ee7144a735e8d3867bb93109e5bfd8caa6c2c18cf2dfe",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/auc_by_model.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/auc_by_model.csv",
+      "sha256": "90538679aed6148cd6b4c98414ba4b57136b918eb510a9920b5afa60cea2142f",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/coefficients_by_model.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/coefficients_by_model.csv",
+      "sha256": "1e62434ffbea3f0d44ef5720415e77f65b301b55d710684c7244c4a3429d279b",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/curve_definedness_summary.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/curve_definedness_summary.csv",
+      "sha256": "24ae82a9345216a95f9fdc498338ab6bc3c8a0eb3cb082f0a2c232a660029ad6",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/family_curves.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/family_curves.csv",
+      "sha256": "135e59f99e6db6c0ad198c349314f73d696500ddbcd5c00bc798c4b85f004fe2",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/family_differences.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/family_differences.csv",
+      "sha256": "41f1416ac7612add51edeecd4051248762cec0d665bf2787aae30deabf8bbde7",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/family_differences_at_key_budgets.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/family_differences_at_key_budgets.csv",
+      "sha256": "6e960f2635b7541671ebe969aeff257ad7cdeab3f4a31b57612ba9ee444aedfd",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/PSU_bootstrap_multipliers.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/PSU_bootstrap_multipliers.csv",
+      "sha256": "1f7ce168dcf06909ac88b169eabcd020bee9da346f7db10b470c01e9e2dec0ed",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/replicate_curve_metrics.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/replicate_curve_metrics.csv",
+      "sha256": "c043adf936c93afbf92b8603ae51a89e540f2bdf82cdb9fd3e33d4dfb9348dbf",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/replicate_status.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/replicate_status.csv",
+      "sha256": "c88330e1f66b8196fbebdd130cd7e1270e9675d62ed1f42faec7baf9e0352c4b",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/results_by_model.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/results_by_model.csv",
+      "sha256": "73f96ddb931102d5c52c11ffd56cca123002774e37574abc50eba0f651fb2dbf",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/submitted_table_comparisons.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/submitted_table_comparisons.csv",
+      "sha256": "7912a3b6798eb17dfb9ebca6f87ecbaafb72e860b9e7df67f66666f308ec2829",
+      "unchanged": true
+    },
+    {
+      "path": "fext/denoise_500_replay/thresholds_by_model.csv",
+      "source": "v7 frozen scientific archive/fext/denoise_500_replay/thresholds_by_model.csv",
+      "sha256": "c252803a0052841ea19e5f60669fab78650e2b2317ed24b2e01f452c77a26219",
+      "unchanged": true
+    },
+    {
+      "path": "fext/fext_unknown_sensitivity.R",
+      "source": "v7 frozen scientific archive/fext/fext_unknown_sensitivity.R",
+      "sha256": "9edb5339ad37ef91eb7188482f7b6e1682fb967a352e593734a7aa2515121894",
+      "unchanged": true
+    },
+    {
+      "path": "fext/finalize_denoise_saved.R",
+      "source": "v7 frozen scientific archive/fext/finalize_denoise_saved.R",
+      "sha256": "16b684c1598be97b2e48959ceba7a6c276907a24d502e7ccba8899dd02eebad7",
+      "unchanged": true
+    },
+    {
+      "path": "fext/fixed_structure_sensitivity_coefficients.csv",
+      "source": "v7 frozen scientific archive/fext/fixed_structure_sensitivity_coefficients.csv",
+      "sha256": "89b7406c9df0693064cfad232e57fafa2a3ba760f4b05ee2ef45fcefa9d6c5ee",
+      "unchanged": true
+    },
+    {
+      "path": "fext/fixed_structure_sensitivity_metrics.csv",
+      "source": "v7 frozen scientific archive/fext/fixed_structure_sensitivity_metrics.csv",
+      "sha256": "e89bc6563e7ca8ce00224480fc97dcc4b25a41fbbbc0eaae14e20288b7c1da89",
+      "unchanged": true
+    },
+    {
+      "path": "fext/fixed_structure_sensitivity_thresholds.csv",
+      "source": "v7 frozen scientific archive/fext/fixed_structure_sensitivity_thresholds.csv",
+      "sha256": "b4f53773d8db6c319464a2a8e14b8d42e6f60c1a02eb7fcd4a6973e37ee56dd5",
+      "unchanged": true
+    },
+    {
+      "path": "fext/matched_population_differences.csv",
+      "source": "v7 frozen scientific archive/fext/matched_population_differences.csv",
+      "sha256": "f4af673fc42b57426b1931018f6d883eb99983f37edd99046f71258f772372a0",
+      "unchanged": true
+    },
+    {
+      "path": "fext/original_coefficient_reproduction.csv",
+      "source": "v7 frozen scientific archive/fext/original_coefficient_reproduction.csv",
+      "sha256": "8c4bbc9ce4641388385463666f2b044497840edeb771b06e99da318a1111bbe8",
+      "unchanged": true
+    },
+    {
+      "path": "fext/original_metric_reproduction_checks.csv",
+      "source": "v7 frozen scientific archive/fext/original_metric_reproduction_checks.csv",
+      "sha256": "7a134aa93fc9ca71230936013e51b1ca3067bd67ac8659866068dfa1757f3125",
+      "unchanged": true
+    },
+    {
+      "path": "fext/original_threshold_reproduction_checks.csv",
+      "source": "v7 frozen scientific archive/fext/original_threshold_reproduction_checks.csv",
+      "sha256": "b81e6b1b11195f36b73198e0375ef0741d55775973f874e7c2a222c62dec1a71",
+      "unchanged": true
+    },
+    {
+      "path": "fext/original_thresholds_reproduced.csv",
+      "source": "v7 frozen scientific archive/fext/original_thresholds_reproduced.csv",
+      "sha256": "c252803a0052841ea19e5f60669fab78650e2b2317ed24b2e01f452c77a26219",
+      "unchanged": true
+    },
+    {
+      "path": "fext/raw_input_md5.csv",
+      "source": "v7 frozen scientific archive/fext/raw_input_md5.csv",
+      "sha256": "de57f0fb683102203671f9457b3f082279555a07221a2ff408e1ce71d440795c",
+      "unchanged": true
+    },
+    {
+      "path": "fext/replay_denoise_500.R",
+      "source": "v7 frozen scientific archive/fext/replay_denoise_500.R",
+      "sha256": "bdb52acd0f18663a523f0ccf20826abd7fd6291fb564d5c231287bed4b8148d1",
+      "unchanged": true
+    },
+    {
+      "path": "fext/response_status_by_cycle.csv",
+      "source": "v7 frozen scientific archive/fext/response_status_by_cycle.csv",
+      "sha256": "e5aaa27bc2f6725b47c2fedc482f59e1a8023242e9f338d7a30167ab9c8c9b4b",
+      "unchanged": true
+    },
+    {
+      "path": "fext/response_status_by_period_access.csv",
+      "source": "v7 frozen scientific archive/fext/response_status_by_period_access.csv",
+      "sha256": "0a5b4e7c60caf4ac70e8fe59bbb4899add95460cf8b8d05dbb3cc7d7dcf8b85e",
+      "unchanged": true
+    },
+    {
+      "path": "fext/validate_saved_fext.R",
+      "source": "v7 frozen scientific archive/fext/validate_saved_fext.R",
+      "sha256": "0d06bd092cb3144c7ddf44f4a23db2477f93907971cea0483e34319941e6308c",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/download_nhanes.py",
+      "source": "v7 frozen scientific archive/reproducibility/download_nhanes.py",
+      "sha256": "ad59c11ff3906696e2f59820b1265752d40efc1575752c0f5cd80c33d0dcef86",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/bootstrap_fixed_metrics.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/bootstrap_fixed_metrics.csv",
+      "sha256": "2b52dc28b32842a8750b00c73ba7cfd4e1e5221296f743bd40c80b66460fccca",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/bootstrap_fold_parameters.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/bootstrap_fold_parameters.csv",
+      "sha256": "46a39ffa728e72c9b4930043395359cf284e3b49bcd1791edecf9395b8ca2929",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/bootstrap_full_metrics.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/bootstrap_full_metrics.csv",
+      "sha256": "ec372342b8c500326f3dc2911cb0dddd04b2840fa56aec967a4dd402e42f22d1",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/bootstrap_parameters.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/bootstrap_parameters.csv",
+      "sha256": "a7b3002381b5906e1fccc904f346c658caf159c487c81087fb36d7e61763e023",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/bootstrap_status.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/bootstrap_status.csv",
+      "sha256": "bfb10a44c642bb253880bcb4ebde5935ab51afb9ddf5ff034c616406fa2a35ac",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/interval_summary.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/interval_summary.csv",
+      "sha256": "964fee37b99b1b66f199ec4bc6facaf561b398b7b95b2c3c0951e6b1c0e1246e",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/locked_strategy_parameters.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/locked_strategy_parameters.csv",
+      "sha256": "4e914e87b6ebdf334e01a2ab909472e8f30897bfaae65321b4d1a8adf720d76a",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_archive/point_metrics.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_archive/point_metrics.csv",
+      "sha256": "294559d3d2671f6834f7408ca8cdedcf53d54f118013a991488711003120e349",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_inputs/replicate_multipliers.csv",
+      "source": "v7 frozen scientific archive/reproducibility/main_inputs/replicate_multipliers.csv",
+      "sha256": "caad72f671e2e433645c86c60535dfb79030ef4be6d40875e9b073acf9841d71",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_inputs/source_snapshot/refine_v5_equation.R",
+      "source": "v7 frozen scientific archive/reproducibility/main_inputs/source_snapshot/refine_v5_equation.R",
+      "sha256": "a12a11f3853f3b76370d369a2a15e544284ee24bb882654707f69d3ea9fe8f56",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/main_point_functions.R",
+      "source": "v7 frozen scientific archive/reproducibility/main_point_functions.R",
+      "sha256": "bd6e9384526d876c438554aaf95042db2e996c63d66ed2cf57a15e8b5c76e260",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/predict_locked.py",
+      "source": "v7 frozen scientific archive/reproducibility/predict_locked.py",
+      "sha256": "57a6f40844819e8cada25803acf662ad5ee8fed021db5ed2d18afd6e351831ac",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/raw_download_manifest.csv",
+      "source": "v7 frozen scientific archive/reproducibility/raw_download_manifest.csv",
+      "sha256": "63746c74d4fbd7842fa8429f5093452be334d0adf9bc991966083eb8fef83000",
+      "unchanged": true
+    },
+    {
+      "path": "reproducibility/reproduce_main.R",
+      "source": "v7 frozen scientific archive/reproducibility/reproduce_main.R",
+      "sha256": "c10d95860392208f7f8728cd1ec62a59b7974f5b6e9a7bb0c160dce93cd77964",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/access_gap_at_key_budgets.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/access_gap_at_key_budgets.csv",
+      "sha256": "a635745da08f1ba5cd01def4350c9e7bff2eab6e14a42540e4e9172207fdffae",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/access_gap_curves.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/access_gap_curves.csv",
+      "sha256": "753067b290baea4f0fd018e3d39515aebda18238f7aa1365b290e76b95c48eef",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/access_gaps.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/access_gaps.csv",
+      "sha256": "17a02767b8a97fb921cb6ef9740de3a406d139e8dba1f900af09b08d3255d70c",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/access_group_metrics.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/access_group_metrics.csv",
+      "sha256": "8a23a3c77e83bf60a42f4d08b8ed91f88391dcbb4984020251dc4380dc89cb64",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/case_age_mix_by_access.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/case_age_mix_by_access.csv",
+      "sha256": "6147a9adde0939af09bb80709fa3b835330c25d8dfd3248f6ea0ea2c44bab95a",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/replicate_psu_multipliers.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/replicate_psu_multipliers.csv",
+      "sha256": "3df0daa433be6a2df56fe474e3ccb47d857219365f776458f24b31c5902dbb92",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/replicate_status.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/replicate_status.csv",
+      "sha256": "1a6a9040f70e4834eb923cd3bcc183b22ef1d0257fb0539fbca66f35db2624d2",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/replicate_valid_counts.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/replicate_valid_counts.csv",
+      "sha256": "caf30199f93140407994124721a832913a93dc1b9a200d5eece83da3cf32c9c9",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/replicate_values.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/replicate_values.csv",
+      "sha256": "374ff12376bf6fcd742043fdc19c242d0e4e805e42b53565dd140363703c4400",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/thresholds.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_rerun/thresholds.csv",
+      "sha256": "8e6843965cbb71611064cba3593e61d6f4f932c83adb55ce21fb6356338ba768",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/access_gap_v5_audit.R",
+      "source": "v7 frozen scientific archive/supplementary_500/access_gap_v5_audit.R",
+      "sha256": "257bafec35361c99ea20b28f072d072634d15902d563d7c1824f7af0a6ef3ada",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/compare_audit.py",
+      "source": "v7 frozen scientific archive/supplementary_500/compare_audit.py",
+      "sha256": "15bc26a9d6ae43d789d297de75a8e734eb266532a73aa90957d95286d6c24dba",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/joint_cutoff_rerun/budget_curve.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/joint_cutoff_rerun/budget_curve.csv",
+      "sha256": "2d18b0882e179745aa683775fd70b3da039cc02adcbc77cfcca00f9d91cc1bb4",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/joint_cutoff_rerun/grid_at_bang_budget_dev.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/joint_cutoff_rerun/grid_at_bang_budget_dev.csv",
+      "sha256": "c2feabf55368e279106813411a556b13e50b70cde82315214d3495af81949db0",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/joint_cutoff_rerun/joint_results.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/joint_cutoff_rerun/joint_results.csv",
+      "sha256": "ab04ed6f94ece854490770a4198df82826e92b04ac47acd4e8564670a9f7491d",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/joint_cutoff_rerun/joint_thresholds.csv",
+      "source": "v7 frozen scientific archive/supplementary_500/joint_cutoff_rerun/joint_thresholds.csv",
+      "sha256": "0e55fce1ab3785c728b618d22ce96e033ac6f4342d46a02e49f1899037d83eee",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/joint_cutoff_v5_audit.R",
+      "source": "v7 frozen scientific archive/supplementary_500/joint_cutoff_v5_audit.R",
+      "sha256": "2f58647c9f2995298813f4355aa8699ec5feaed7308c65557114baf395fae123",
+      "unchanged": true
+    },
+    {
+      "path": "supplementary_500/prepare_audit.py",
+      "source": "v7 frozen scientific archive/supplementary_500/prepare_audit.py",
+      "sha256": "223acd2467799fbb62ba267611f34b5d5d93d15ccc7db6edbe61c0f421870183",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/access_gap_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/access_gap_v5.R",
+      "sha256": "01f016088f11762999e126989f24007a969467483c5abd3907ceb0263b434ff7",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/denoise_features_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/denoise_features_v5.R",
+      "sha256": "6848b57c20b165d426a960d24eede1d3d355b3f76c580439142b3cc59c01d46f",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/evaluate_locked_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/evaluate_locked_v5.R",
+      "sha256": "62886666ef037d2a5b208582ea651a35a269ecbebb56fa18c9bb3022fedda766",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/external_validation_v5_WTPH2YR.R",
+      "source": "v7 frozen scientific archive/supplement/code/external_validation_v5_WTPH2YR.R",
+      "sha256": "5200ed03710fede4d9d4f2af4cbd0d1c6378e3f1e6c8e446c3262c2d755bb23a",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/fixed_taylor.py",
+      "source": "v7 frozen scientific archive/supplement/code/fixed_taylor.py",
+      "sha256": "2a01d9015b23a637d5a37df3d16e9b02db29ee5bfe23b9317f3c2b4e644f3ac4",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/full_pipeline_eval_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/full_pipeline_eval_v5.R",
+      "sha256": "4216659fcc934cf5b0543a6b5254cd7421eab5854250394b5bc7db1f3f6f1f31",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/joint_cutoff_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/joint_cutoff_v5.R",
+      "sha256": "01b81f300e4897b782d1856e07e5f582920055d313701047da93af27d2bb7543",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/missing_mi_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/missing_mi_v5.R",
+      "sha256": "253ffdee8ffa889d34b87b78d92672278c3ee73d56617f106fc8c1634d8f0968",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/optimize_segmented_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/optimize_segmented_v5.R",
+      "sha256": "35884facbb18398a55c089958bcf3535e350c70d1e84f6d3040c047ee9b54752",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/recalibrate_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/recalibrate_v5.R",
+      "sha256": "e796b5940e8bebd7de97b0d33eabc1a00c26424319b1c01582685eebf30ab24c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/segmented_v5.R",
+      "source": "v7 frozen scientific archive/supplement/code/segmented_v5.R",
+      "sha256": "dfcc4ade3d56b4ef285ceef9b4a4e1b5a286626f6571cf44810f7fb8363619d5",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/code/segmented_v5_S4.R",
+      "source": "v7 frozen scientific archive/supplement/code/segmented_v5_S4.R",
+      "sha256": "53fade97f2aa79764ab34dd182979b0dc49ac6b6c9e01d85590003309ebd489f",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/archive/S17_ext_results_original_Wald.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/archive/S17_ext_results_original_Wald.csv",
+      "sha256": "8ef2aa1d27576bf0296ea6cc8e5cd698404cbb9c0b58e91a50a679ac4a26a443",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S10_body_control_intervals.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S10_body_control_intervals.csv",
+      "sha256": "d5378bcb5c64b02c9a3452b4b7e74c24a686e8405d6f98d9ea5e66bd64726ca2",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S10_body_control_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S10_body_control_parameters.csv",
+      "sha256": "5898e760cc750fc51dba4542b220905fc3b22b71e6f08c384c3eadd7db563d19",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S10_body_control_point.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S10_body_control_point.csv",
+      "sha256": "40f5b39e6cc526fa84a9ef4311ca987408f4f4601f3605fb77aa74b939b1deae",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S10_refreshed_mapping_Taylor.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S10_refreshed_mapping_Taylor.csv",
+      "sha256": "666a72872c2f76716e7941bee79fe22549029ed843a585d225034728f453b7a0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_independent_chain_diagnostics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_independent_chain_diagnostics.csv",
+      "sha256": "1febce0bb94796cc7adc00d531dad8ff25d5909fd9e7b57767e5bc4e154f88bd",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_observed_imputed_summary.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_observed_imputed_summary.csv",
+      "sha256": "d7e17deb967a4914f9862c67d7d620ead46154691cc4e76969193223f8ce4de0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_200_methods.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_200_methods.csv",
+      "sha256": "d4cbf8bff0b6c03a0504f5e3a47eeddcdf8d497a3ef9c54d4efb71cbe781ee57",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_200_pooled.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_200_pooled.csv",
+      "sha256": "e88ef9c48d64f70670bda87451d2e930ffbfbcc3cc38a63a0a01cc04a7ea8dc6",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_long_methods.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_long_methods.csv",
+      "sha256": "d4cbf8bff0b6c03a0504f5e3a47eeddcdf8d497a3ef9c54d4efb71cbe781ee57",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_long_pooled.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_long_pooled.csv",
+      "sha256": "dd9fc9d3fb69663d53b7eea4c8482e1825e104bfd55899e33e268197cb1dcfae",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_methods.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_methods.csv",
+      "sha256": "d4cbf8bff0b6c03a0504f5e3a47eeddcdf8d497a3ef9c54d4efb71cbe781ee57",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_original_pooled.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_original_pooled.csv",
+      "sha256": "4154d6f85b7c47761cac2b8ead62dae78f8dd72c18c35b1a0c70983cb1b7750f",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_predictor_matrix_actual.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_predictor_matrix_actual.csv",
+      "sha256": "7dc84764969ee783a581ad8712c9d195c37853056b2aa44b0dd59bcdb29e19df",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_psu_fixed_long_methods.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_psu_fixed_long_methods.csv",
+      "sha256": "3511da0df5aa4994b7fcfbfa06a6e3e3bfcb297369a1933790bf65c83def0362",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_psu_fixed_long_pooled.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_psu_fixed_long_pooled.csv",
+      "sha256": "f6a758e206f0db73631d4a540cc33e950775cca00f01badfe9964f8b4bc09677",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_psu_fixed_methods.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_psu_fixed_methods.csv",
+      "sha256": "3511da0df5aa4994b7fcfbfa06a6e3e3bfcb297369a1933790bf65c83def0362",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S11_psu_fixed_pooled.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S11_psu_fixed_pooled.csv",
+      "sha256": "184c105af68ac8f5eb9feec34e2a99f77198ab9710fcab6db1ea960f9431d436",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_access_gap_at_key_budgets.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_access_gap_at_key_budgets.csv",
+      "sha256": "a635745da08f1ba5cd01def4350c9e7bff2eab6e14a42540e4e9172207fdffae",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_access_gap_curves.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_access_gap_curves.csv",
+      "sha256": "753067b290baea4f0fd018e3d39515aebda18238f7aa1365b290e76b95c48eef",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_access_gaps.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_access_gaps.csv",
+      "sha256": "17a02767b8a97fb921cb6ef9740de3a406d139e8dba1f900af09b08d3255d70c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_access_group_metrics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_access_group_metrics.csv",
+      "sha256": "8a23a3c77e83bf60a42f4d08b8ed91f88391dcbb4984020251dc4380dc89cb64",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_case_age_mix_by_access.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_case_age_mix_by_access.csv",
+      "sha256": "6147a9adde0939af09bb80709fa3b835330c25d8dfd3248f6ea0ea2c44bab95a",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_access_history_thresholds.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_access_history_thresholds.csv",
+      "sha256": "8e6843965cbb71611064cba3593e61d6f4f932c83adb55ce21fb6356338ba768",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_auc_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_auc_by_model.csv",
+      "sha256": "90538679aed6148cd6b4c98414ba4b57136b918eb510a9920b5afa60cea2142f",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_coefficients_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_coefficients_by_model.csv",
+      "sha256": "1e62434ffbea3f0d44ef5720415e77f65b301b55d710684c7244c4a3429d279b",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_dev_scores_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_dev_scores_by_model.csv",
+      "sha256": "95f74a631967f90b80d11f489511e94cf6c889c705912aface8d6b9560e194b2",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_family_curves.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_family_curves.csv",
+      "sha256": "135e59f99e6db6c0ad198c349314f73d696500ddbcd5c00bc798c4b85f004fe2",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_family_differences.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_family_differences.csv",
+      "sha256": "41f1416ac7612add51edeecd4051248762cec0d665bf2787aae30deabf8bbde7",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_family_differences_at_key_budgets.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_family_differences_at_key_budgets.csv",
+      "sha256": "6e960f2635b7541671ebe969aeff257ad7cdeab3f4a31b57612ba9ee444aedfd",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_feature_forward_steps.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_feature_forward_steps.csv",
+      "sha256": "10482886a0c747abe36d3e65f1c691f13bb0cc42b9a7e669f163919b5ca1af4d",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_redundancy_backward.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_redundancy_backward.csv",
+      "sha256": "fefa8d915534892d25460f5c9532d484b4763be7a92429a4bb137a86a1a9fa90",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_redundancy_correlation.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_redundancy_correlation.csv",
+      "sha256": "32c02fd19d115f1bc6ac14746b2bcdf02a38433c93268a1f3d0c052581175ee0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_redundancy_vif_v5.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_redundancy_vif_v5.csv",
+      "sha256": "0aecb749f457c23b3a5b1f94af485c0f7f071f38df49e061807589aa3d93335d",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_results_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_results_by_model.csv",
+      "sha256": "73f96ddb931102d5c52c11ffd56cca123002774e37574abc50eba0f651fb2dbf",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_thresholds_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_thresholds_by_model.csv",
+      "sha256": "c252803a0052841ea19e5f60669fab78650e2b2317ed24b2e01f452c77a26219",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_information_vif_by_model.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_information_vif_by_model.csv",
+      "sha256": "3559bd6dc01e0285725183ffb9edd332cac90dd2c330ae33c5cb3e537ee595ad",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_joint_budget_curve.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_joint_budget_curve.csv",
+      "sha256": "2d18b0882e179745aa683775fd70b3da039cc02adcbc77cfcca00f9d91cc1bb4",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_joint_grid_at_bang_budget_dev.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_joint_grid_at_bang_budget_dev.csv",
+      "sha256": "c2feabf55368e279106813411a556b13e50b70cde82315214d3495af81949db0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_joint_joint_results.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_joint_joint_results.csv",
+      "sha256": "ab04ed6f94ece854490770a4198df82826e92b04ac47acd4e8564670a9f7491d",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_joint_joint_thresholds.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_joint_joint_thresholds.csv",
+      "sha256": "0e55fce1ab3785c728b618d22ce96e033ac6f4342d46a02e49f1899037d83eee",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_age60_jump_diagnostics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_age60_jump_diagnostics.csv",
+      "sha256": "02562c6e933de0763c0001b629cc89700930c401e9715999c162b2a3b1ddf091",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_bootstrap_fold_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_bootstrap_fold_parameters.csv",
+      "sha256": "02eaeabaf46210eb07fe5bb8fab6f7126511c98cfb544cb1d1dda0572943c643",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_bootstrap_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_bootstrap_parameters.csv",
+      "sha256": "09621a3a76ee09ec3dec0cd8f2c190464e2185291f7931001cecef366bbef8d5",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_boundary_examples.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_boundary_examples.csv",
+      "sha256": "6e27d4f52d44474d545ced87db972af7e3734c838bf05735746d9c661e095933",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_cohort_counts.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_cohort_counts.csv",
+      "sha256": "08d4d66ae065931557ab98b29f0a18a0ffc6ba30d8401a67307646ce01af605c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_decision_table.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_decision_table.csv",
+      "sha256": "8b9fa33f948a66db7b8a7d851ecc289409b7a13de7692a99dde948af3952dd61",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_fold_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_fold_parameters.csv",
+      "sha256": "f1756dd36e536d086be3cc97ea2bb7b8e30dfd16268d6c261b53001d9a647ac0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_independent_fit_checks.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_independent_fit_checks.csv",
+      "sha256": "0855d283e6fcec62d944f1e13f8ccf18d75db3eb3601b21e76c853cc9ac8de1c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_independent_probability_metric_checks.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_independent_probability_metric_checks.csv",
+      "sha256": "61a8454f186223ff604f7382cc93c366bc932bbaecfbe67f4e5fc3e3423fd4be",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_independent_PSU_refit_checks.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_independent_PSU_refit_checks.csv",
+      "sha256": "2fc023fcb6c62b22c188e7c001b38cf0271c9dd6cde6d160ed40dc7d51c82619",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_local_norm_stability.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_local_norm_stability.csv",
+      "sha256": "9c00352dcfc001adefde39c7f9266c46676b5ca53e3c31604b54875b0d1e9258",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_metric_intervals.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_metric_intervals.csv",
+      "sha256": "0de267f4bad4423953b0871fd288a190e49947673156e522e5d7d78caca2060e",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_old_case_switches.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_old_case_switches.csv",
+      "sha256": "b26ad6c99127f3ffe8af9273eeeb6150ca70f3d51300ce00130c3d6806650c9c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_paired_comparisons.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_paired_comparisons.csv",
+      "sha256": "b80b731a877be5c524d39597ae92e4670498cd051096c535c45c4741f95efd63",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_point_metrics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_point_metrics.csv",
+      "sha256": "ad7f596274aaebba10273c5a2bd9d0c7ef2150dea7ad575bec7757e7ed6e941e",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_point_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_point_parameters.csv",
+      "sha256": "1c3c60160aeb8a1994ffde711b022c0e18f4747bb11aed46fa5c2c66678bab6c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_prediction_function_checks.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_prediction_function_checks.csv",
+      "sha256": "ad8ca1d74d1d28e2d64d9d3ec5955e0f62dc1a79f9f014932b36069c96b39e35",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_PSU_influence_metrics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_PSU_influence_metrics.csv",
+      "sha256": "f268d8f21dbc10a102edadb6923a7382730f99ccef90f3990e84e612f7de381c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_PSU_influence_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_PSU_influence_parameters.csv",
+      "sha256": "1ce5111dd4199a55d326afd423f51ce29c9b7399d07822147670303474137260",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_PSU_stability_summary.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_PSU_stability_summary.csv",
+      "sha256": "cae22263b1042359d50fb6a13706b986efb6cf51ceb69135e77808ef33ce85cb",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_RAW_gain_distribution.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_RAW_gain_distribution.csv",
+      "sha256": "12685c1ce3b6cd46dbd3155bad9ae02ef90e21f38c34cfc9d3baad0c5a0295da",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_RAW_parameter_stability.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_RAW_parameter_stability.csv",
+      "sha256": "be02627ca7ee032c69818c6c22c0d0fd3a5454f2bab818cd030f81ac3d9f8974",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_replicate_status.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_replicate_status.csv",
+      "sha256": "d01e46b0edebf284c49499e54c4691e152e141a57e341aa05e63385473ccf82b",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_risk_and_calibration.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_risk_and_calibration.csv",
+      "sha256": "d796801415e8fcee92570fa4cd44f16af242c06b2f0320a54ac7e7e35c3efacd",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_threshold_rules.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_threshold_rules.csv",
+      "sha256": "18a206a10f65fae1f9b428ea465bf9e381935a272aef799d92779a13cb441fcf",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S12_segmented_worst_optimizer_replicate_check.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S12_segmented_worst_optimizer_replicate_check.csv",
+      "sha256": "e0c1f141163eac7dbb7ba074f0887cbb1dce38ebcb7c133daadb2670f901488d",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_calibration_intervals.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_calibration_intervals.csv",
+      "sha256": "99d92653f8ab388ddb93cc77482296c16d5c7120af8c6939ad2aec46d98d5f47",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_full_update_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_full_update_parameters.csv",
+      "sha256": "c56d90392a92be2b77c00a2f36a8664b2ea3d9f91954c2525c38a00897fb7a94",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_group_denominators.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_group_denominators.csv",
+      "sha256": "71d628cd066195e4cf7ec54e37f53b88f45c7480903ecff6274ba54a2cf1d5cb",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_net_benefit_scenarios.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_net_benefit_scenarios.csv",
+      "sha256": "887d56163976b8e2a20568085b97249cd6c06a926687e8b9a2f944d238ec80ca",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_transformed_thresholds.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_transformed_thresholds.csv",
+      "sha256": "5b327fd37cc35004c0c1288e47a78169978cf835d310b8b125859f120177c226",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S13_update_fold_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S13_update_fold_parameters.csv",
+      "sha256": "4349db0ec2d720cdce614ed78ec936b24470006fb9e7826c23b5f05de55db0ca",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S14_grid_point.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S14_grid_point.csv",
+      "sha256": "7763d7bfbf3e988f161500af3e7dccb372711f9d699778792cb77d581deb2bfb",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S14_grid_repaired_intervals.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S14_grid_repaired_intervals.csv",
+      "sha256": "4ba5df80a037a11b1455f26f6b049f7721edbb39467cdbd15bba93c224438a4c",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_absolute_proportions_logit_CI.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_absolute_proportions_logit_CI.csv",
+      "sha256": "1cd7b0e65f3621ab58e48afb6d510906eb1e3185a9664014c6d1cd9e24643c08",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_derived_coefficients_QA.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_derived_coefficients_QA.csv",
+      "sha256": "567e103f53d3ad246c572715c86c459a52f0a3c803efbefcb8be0dd9e27adce0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_derived_thresholds_17digits.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_derived_thresholds_17digits.csv",
+      "sha256": "b7bb15ba98e2faadf51a764895f08920f150d7663f469a9b866df2dd52501aef",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_access_gaps.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_access_gaps.csv",
+      "sha256": "5a2b2eb980560c2c7421adb37d543a7074ad29ec000cd8109a09426d14849ac2",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_auc_calibration.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_auc_calibration.csv",
+      "sha256": "b642516029982a01e9eef47a8b426730294ff432d10ff93d0bd65b3d57cbb912",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_differences_at_key_budgets.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_differences_at_key_budgets.csv",
+      "sha256": "a727ae7c5cafe5d21cc018f804f50a028a95f59b25d8b5e57e4057fb209f0818",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_family_curves.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_family_curves.csv",
+      "sha256": "5864c9eb0211e73d1cd2e6a5a0cd3d84e831f6acabc491839690a439dc8d2fba",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_family_differences.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_family_differences.csv",
+      "sha256": "a491ae6f8a671ed3666e5964d48dc3b926a17e7453d8e34a8e7fdd785c2093bb",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_ext_inactive_definition_check.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_ext_inactive_definition_check.csv",
+      "sha256": "c46f848fee2a50ef02dbd272200866b5fb3bcb0c7de2b6be8ab5a75aad28b6f7",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_source_R_full_precision_coefficients.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_source_R_full_precision_coefficients.csv",
+      "sha256": "8b69e1cf2c98ae901891e97e385ea50e58ce0e3362e718a8f8d36c86fc8dffb9",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_source_R_preprocessing.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_source_R_preprocessing.csv",
+      "sha256": "1c30f6e00b31349ab9ec17d2922cd4e8a40eadeeb7abf34a2423b780e5e089ca",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S17_thresholds_locked.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S17_thresholds_locked.csv",
+      "sha256": "54016922e002ce579358c121b812d1149d84180cbc74559b36e993145f206303",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S1_original_operational_mapping.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S1_original_operational_mapping.csv",
+      "sha256": "1e8b4ad637e91ea0fc3b35f07d57067bdbd4c5a3f68056056d5f24624f3bd7a8",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S1_variable_availability.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S1_variable_availability.csv",
+      "sha256": "f993cabb6332325e3be531f30788a74bee66117754a1985d4677eb45297954e0",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_characteristics_display.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_characteristics_display.csv",
+      "sha256": "a322e3762eec828623a5cbd7c377cb2e5b733d7db38368cc7bcbdf7e595401a7",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_classification_bounds.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_classification_bounds.csv",
+      "sha256": "5f61719f30e22b9fca4448559b99136e335714a39db1e05eedd507c6cddd4c58",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_cohort_flow.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_cohort_flow.csv",
+      "sha256": "bc58777578c217634772dd26738ea16819b73e7e45caebd5d3e6be54cf38b31d",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_full_characteristics.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_full_characteristics.csv",
+      "sha256": "ecbf5120f0f352d2942515a0dee88b14b872041fb634eb2d5f031d5fb5be74ed",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_missingness.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_missingness.csv",
+      "sha256": "4c0c9c0c6bdc3ca4809e52de337a7f05e98754e4f3bd8b923812289b5ad01ec6",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S3_score_coverage.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S3_score_coverage.csv",
+      "sha256": "375b1067220561d54b6c8564b7fbebff2c2049ec50b022bfb0e6d90595897077",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S4_locked_parameters.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S4_locked_parameters.csv",
+      "sha256": "4e914e87b6ebdf334e01a2ab909472e8f30897bfaae65321b4d1a8adf720d76a",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S5_age_differences.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S5_age_differences.csv",
+      "sha256": "faff5368c278615f83a8af80ab2772646fc5c522bf62b68b586a0874cf966ff2",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S5_core_decision_table.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S5_core_decision_table.csv",
+      "sha256": "1058e86dc32fe8c32b8ff945a930cd518a38528b5485e42c656eff8a2f843398",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S5_full_strategy_performance.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S5_full_strategy_performance.csv",
+      "sha256": "1bcd5983df28ba6825b71da5eeed3eab5470151530d10b6c1fd6d44a49d641a9",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S5_incremental_testing_yield.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S5_incremental_testing_yield.csv",
+      "sha256": "1695a281b3313135deb863ee1a3c7a38e54ffe7fbf163e1a0304352a0153fa60",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S6_age_contributions.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S6_age_contributions.csv",
+      "sha256": "e0c942e978ff037d64e03f529dca8eb89fe57e951dc192373f7fc8ee2fffffb9",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S6_age_standardised_access.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S6_age_standardised_access.csv",
+      "sha256": "38088703d5e4dd737101c94a743796b3a9437e60f2edf39b374b8505d535c968",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S7_bootstrap_intervals.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S7_bootstrap_intervals.csv",
+      "sha256": "964fee37b99b1b66f199ec4bc6facaf561b398b7b95b2c3c0951e6b1c0e1246e",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S7_fixed_rule_Taylor.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S7_fixed_rule_Taylor.csv",
+      "sha256": "30320fd801ce9c8e9c824d12d4e723eff00af2a1b8bd2b5280b4e280f8653292",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S7_full_pipeline_status.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S7_full_pipeline_status.csv",
+      "sha256": "bfb10a44c642bb253880bcb4ebde5935ab51afb9ddf5ff034c616406fa2a35ac",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S8_laboratory_bridge_sensitivity.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S8_laboratory_bridge_sensitivity.csv",
+      "sha256": "878561de08ad1b4aba38a79ce7b9fb4e577405334e63eaa64fb0786aa0784036",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S8_reference_performance.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S8_reference_performance.csv",
+      "sha256": "dfbba183db3a3b17a5f445e216d9f865fcacef8af5bcd9e94771659f3cc85f95",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S9_access_components.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S9_access_components.csv",
+      "sha256": "5db892fda8e6a9c437e0c545f8e942ebb4ffce9b4ff8fa3e6f20b6a8e47c2426",
+      "unchanged": true
+    },
+    {
+      "path": "supplement/tables/S9_population_definitions.csv",
+      "source": "v7 frozen scientific archive/supplement/tables/S9_population_definitions.csv",
+      "sha256": "bfac6c9ed900f1829b4b24c585d12908de0d5f784e46b3196a516d75107dc29b",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/Figure1_cohort_flow.csv",
+      "source": "v7 frozen figure source data/Figure1_cohort_flow.csv",
+      "sha256": "8ee26e0fabc04153094f1dfc517d4348924ceef1feb07bd04a54c423618f3abd",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/Figure1_displayed_exclusions.csv",
+      "source": "v7 frozen figure source data/Figure1_displayed_exclusions.csv",
+      "sha256": "f1b961727261ca2d5509c7a83a446f42b2e0db2e4f2b08e395dd19de577a7e8f",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/Figure2_case_score_distribution.csv",
+      "source": "v7 frozen figure source data/Figure2_case_score_distribution.csv",
+      "sha256": "e7f549fc204f064fb05d0a7f0a5b2f12bcae58be6d6bc45dcbe1e6c24d9af602",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/Figure3_age_differences.csv",
+      "source": "v7 frozen figure source data/Figure3_age_differences.csv",
+      "sha256": "286b6ec1473a073e6d5ad6ce1714ed5aa639a8b951b1d2f1aec5203fcfb9df2e",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/Figure4_calibration_curves.csv",
+      "source": "v7 frozen figure source data/Figure4_calibration_curves.csv",
+      "sha256": "5675c79f484a144e8b96c2c14c2891766d2500e214883d8e0c925d92272ea541",
+      "unchanged": true
+    },
+    {
+      "path": "figures/source_data/FigureS5_strategy_performance.csv",
+      "source": "v7 frozen figure source data/FigureS5_strategy_performance.csv",
+      "sha256": "ca60333d9134f53170fbe8db323f956f0cbab2eca8c78e86aa18dcc1f6cb9563",
+      "unchanged": true
+    },
+    {
+      "path": "archive/figures_v5.py",
+      "source": "historical original/figures_v5.py",
+      "sha256": "bfd5d9dc12a43ca7e8c8d0b775d2a4091c1838f9d9f2a589b09792b66925b6c9",
+      "unchanged": true
+    },
+    {
+      "path": "archive/make_figures_v4.py",
+      "source": "historical original/make_figures_v4.py",
+      "sha256": "f032de926097dc37e431d43e7ada33a18b37fd8bdc840cb88c5aa10c555de2ce",
+      "unchanged": true
+    },
+    {
+      "path": "archive/export_frozen_cohorts.R",
+      "source": "historical original/export_frozen_cohorts.R",
+      "sha256": "606f7e254a5387c14778d0e306469671244a7bd3343ed98205a525f6d8c8f554",
+      "unchanged": true
+    }
+  ],
+  "excluded": [
+    {
+      "path": "analysis/local_calibration/scoring_receipt.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_bootstrap_curve_array.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_derived_model_bundle.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_external_predictions_rerun.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_external_scoring_inputs.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_F3_source_rerun_model.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "analysis/s17_rerun/S17_V5nf_source_rerun_model.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "fext/denoise_500_replay/replicate_curve_arrays.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "reproducibility/main_archive/development_oof.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "reproducibility/main_archive/evaluation_predictions.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "reproducibility/main_inputs/full_base.csv",
+      "reason": "participant-level rows"
+    },
+    {
+      "path": "reproducibility/main_inputs/prepared.rds",
+      "reason": "R object kept in companion reproduction archive"
+    },
+    {
+      "path": "supplementary_500/access_gap_rerun/replicate_archive.rds",
+      "reason": "R object kept in companion reproduction archive"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+args <- commandArgs(TRUE)
+z <- readRDS(args[1])
+stopifnot(nrow(z$dev)==12781, nrow(z$eval)==11848, sum(z$dev$case)==436, sum(z$eval$case)==356)
+write.csv(z$dev,file.path(args[2],"development_2007_2012.csv"),row.names=FALSE,na="NA")
+write.csv(z$eval,file.path(args[2],"evaluation_2013_2018.csv"),row.names=FALSE,na="NA")
+cat("Object slots:", names(z), "\nDevelopment columns:",names(z$dev),"\nEvaluation columns:",names(z$eval),"\n")
+writeLines(c("Development: n=12781; HbA1c positive=436", "Evaluation: n=11848; HbA1c positive=356", "Exported directly from the frozen prepared.rds; no refitting, cleaning, or recoding."),file.path(args[2],"cohort_export_verification.txt"))

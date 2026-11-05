@@ -1,0 +1,7 @@
+age_group,age_label,cases,measure,difference_pp,lower95_pp,upper95_pp,comparison,analysis,B
+young,20–39,43,sensitivity,54.09424870480149,30.38996331508,77.79853409452299,R1_minus_Bang,paired_full_pipeline_normal95,1000
+young,20–39,43,referral,10.3730441709101,7.34604262593469,13.4000457158855,R1_minus_Bang,paired_full_pipeline_normal95,1000
+mid,40–59,145,sensitivity,9.08050791342107,-1.24492342100871,19.4059392478508,R1_minus_Bang,paired_full_pipeline_normal95,1000
+mid,40–59,145,referral,2.96119336136914,0.2034696102628289,5.71891711247544,R1_minus_Bang,paired_full_pipeline_normal95,1000
+old,≥60,168,sensitivity,-0.171534517324368,-5.628477395078231,5.28540836042949,R1_minus_Bang,paired_full_pipeline_normal95,1000
+old,≥60,168,referral,1.60015348977381,-11.8330953775799,15.033402357127502,R1_minus_Bang,paired_full_pipeline_normal95,1000

@@ -1,0 +1,11 @@
+"check","value"
+"V5nf_CSV_vs_RDS_coefficient",0
+"V5nf_CSV_vs_RDS_preprocessing",0
+"V5nf_optimizer_convergence_code",0
+"F3_CSV_vs_RDS_coefficient",0
+"F3_CSV_vs_RDS_preprocessing",0
+"F3_optimizer_convergence_code",0
+"PSU_multiplier_stratum_sum_minus_nPSU",0
+"bounded_CI_rows_outside_0_100",0
+"bounded_vs_Taylor_max_point_difference_pp",9.9475983006414e-14
+"curve_replicates_total",122000

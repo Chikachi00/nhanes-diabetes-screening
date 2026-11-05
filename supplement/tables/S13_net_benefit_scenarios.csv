@@ -1,0 +1,291 @@
+group,pt,strategy,estimate,lower95,upper95,interpretation
+overall,0.01,Bang,9.160004711637395,6.661447079594495,11.658562343680295,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.01,S0,11.112189308576374,8.650442373238896,13.573936243913852,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.01,S1,10.978161488605526,8.485107914934147,13.471215062276904,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.01,S4,11.072104788947879,8.656782659118909,13.48742691877685,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.01,S4_minus_S1,0.0939433003423531,-0.21668185438577714,0.40456845507048333,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.015,Bang,7.591827260490742,5.096200426937372,10.087454094044112,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.015,S0,9.469946017111539,7.00609959628237,11.933792437940708,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.015,S1,9.13610480626432,6.636515527347759,11.635694085180882,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.015,S4,9.0151659459267,6.595619176840614,11.434712715012786,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.015,S4_minus_S1,-0.12093886033762047,-0.4911679011682553,0.24929018049301438,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.019999999999999997,Bang,6.007647998618104,3.5120578512772447,8.503238145958964,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.019999999999999997,S0,7.81094514103992,5.3407072223432515,10.28118305973659,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.019999999999999997,S1,7.275251627164532,4.750537230673804,9.799966023655259,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.019999999999999997,S4,6.937237931037961,4.507650328138633,9.36682553393729,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.019999999999999997,S4_minus_S1,-0.33801369612657073,-0.8194706982384901,0.14344330598534866,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.024999999999999998,Bang,4.407220744316001,1.9086833526525195,6.905758135979483,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.024999999999999998,S0,6.134928871367567,3.653909174580481,8.615948568154653,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.024999999999999998,S1,5.3953127744329485,2.8268682652021577,7.963757283663739,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.024999999999999998,S4,4.837997833945231,2.392447239603707,7.283548428286755,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.024999999999999998,S4_minus_S1,-0.5573149404877178,-1.175656195930092,0.06102631495465638,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.03,Bang,2.7902942399695476,0.28574395322942303,5.294844526709673,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.03,S0,4.441634083451168,1.9453645331659315,6.937903633736405,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.03,S1,3.4959931087866103,0.8655764992012291,6.126409718371992,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.03,S4,2.7171160863670103,0.2496138069367615,5.1846183657972595,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.03,S4_minus_S1,-0.7788770224196,-1.5472651262432935,-0.010488918595906616,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.034999999999999996,Bang,1.1566120205521457,-1.3570895956090756,3.670313636713367,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.034999999999999996,S0,2.7307921992869293,0.21474818624275915,5.246836212331099,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.034999999999999996,S1,1.5769913740662158,-1.1329532684902595,4.2869360166226915,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.034999999999999996,S4,0.574256289591089,-1.921213342499572,3.06972592168175,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.034999999999999996,S4_minus_S1,-1.0027350844751268,-1.9289061347244818,-0.07656403422577185,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.039999999999999994,Bang,-0.4940877219841848,-3.0201422619763476,2.031966818007978,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.039999999999999994,S0,1.002129045495984,-1.5382490950533012,3.542507186045269,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.039999999999999994,S1,-0.36199996205751894,-3.168099079403662,2.444099155288624,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.039999999999999994,S4,-1.5909249634012497,-4.120366297539876,0.9385163707373767,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.039999999999999994,S4_minus_S1,-1.2289250013437307,-2.3180932821763025,-0.13975672051115895,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.045,Bang,-2.162072278578492,-4.703734362575403,0.3795898054184188,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.045,S0,-0.7446352931514166,-3.313921158359644,1.824650572056811,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.045,S1,-2.3212948723815003,-5.2390897869264865,0.5965000421634863,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.045,S4,-3.778778271398746,-6.348148590297095,-1.2094079525003973,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.045,S4_minus_S1,-1.4574833990172458,-2.713582753278053,-0.20138404475643878,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.049999999999999996,Bang,-3.847614567347472,-6.4081813897863285,-1.2870477449086155,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.049999999999999996,S0,-2.509786624837208,-5.112547515603035,0.09297426592861946,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.049999999999999996,S1,-4.301213939656261,-7.345087438891839,-1.2573404404206832,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.049999999999999996,S4,-5.989661614217262,-8.604838980362542,-3.3744842480719814,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.049999999999999996,S4_minus_S1,-1.6884476745610009,-3.114711031147012,-0.2621843179749901,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.05499999999999999,Bang,-5.550993282452632,-8.133794046239153,-2.9681925186661116,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05499999999999999,S0,-4.293616806593747,-6.934394869406658,-1.6528387437808356,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05499999999999999,S1,-6.302084531452444,-9.485255222499504,-3.118913840405383,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05499999999999999,S4,-8.223940547965075,-10.890696014168086,-5.557185081762065,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05499999999999999,S4_minus_S1,-1.9218560165126313,-3.521110112014779,-0.32260192101048357,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.05999999999999999,Bang,-7.272493047718486,-9.880878487687237,-4.664107607749735,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05999999999999999,S0,-6.096423905177481,-8.779719034589434,-3.4131287757655286,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05999999999999999,S1,-8.324240980608163,-11.658807447117727,-4.989674514098599,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05999999999999999,S4,-10.481988406539994,-13.205963053199152,-7.758013759880835,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.05999999999999999,S4_minus_S1,-2.1577474259318308,-3.9325741283426554,-0.3829207235210059,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.06499999999999999,Bang,-9.012404575179692,-11.649736766427363,-6.375072383932021,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06499999999999999,S0,-7.918512363104359,-10.648767154626256,-5.1882575715824615,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06499999999999999,S1,-10.368024771466082,-13.8650421080226,-6.871007434909566,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06499999999999999,S4,-12.764186509591653,-15.550873473920335,-9.97749954526297,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06499999999999999,S4_minus_S1,-2.3961617381255707,-4.348991986340003,-0.44333148991113847,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.06999999999999999,Bang,-10.771024828742641,-13.440667459688289,-8.101382197796994,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06999999999999999,S0,-9.760193170041209,-12.541780107676122,-6.978606232406295,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06999999999999999,S1,-12.433784732118173,-16.10335887323679,-8.764210590999557,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06999999999999999,S4,-15.070924377192256,-17.92565577807,-12.216192976314511,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.06999999999999999,S4_minus_S1,-2.6371396450740825,-4.770311085466595,-0.5039682046815703,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.07499999999999998,Bang,-12.548657193154911,-15.253966460871395,-9.843347925438428,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07499999999999998,S0,-11.621784039755745,-14.458994999900023,-8.784573079611468,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07499999999999998,S1,-14.52187723288542,-18.373266128322793,-10.670488337448045,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07499999999999998,S4,-17.40259995146961,-20.330538404855105,-14.474661498084117,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07499999999999998,S4_minus_S1,-2.8807227185841917,-5.196516688855137,-0.5649287483132466,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.07999999999999999,Bang,-14.345611648484711,-17.089927906665974,-11.60129539030345,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07999999999999999,S0,-13.50360959283675,-16.40064765370981,-10.606571531963686,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07999999999999999,S1,-16.63266639126971,-20.67438054724458,-12.590952235294836,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07999999999999999,S4,-19.759619825467382,-22.765754096687616,-16.75348555424715,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.07999999999999999,S4_minus_S1,-3.1269534341976737,-5.627619642743224,-0.6262872256521232,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.08499999999999998,Bang,-16.16220495032084,-18.94884521008251,-13.375564690559175,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08499999999999998,S0,-15.406001545404973,-18.36697501324538,-12.445028077564563,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08499999999999998,S1,-18.7665242836254,-23.006422037446182,-14.52662652980462,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08499999999999998,S4,-22.14239947950884,-25.23154372908197,-19.053255229935708,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08499999999999998,S4_minus_S1,-3.375875195883438,-6.06364877610325,-0.6881016156636259,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.08999999999999998,Bang,-17.99876081591342,-20.83101216837087,-15.166509463455972,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08999999999999998,S0,-17.329298904045384,-20.358217406592967,-14.3003804014978,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08999999999999998,S1,-20.923831163809183,-25.369206176133975,-16.47845615148439,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08999999999999998,S4,-24.55136352535296,-27.72815956725302,-21.374567483452903,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.08999999999999998,S4_minus_S1,-3.6275323615437784,-6.504646038650414,-0.7504186844371432,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.09499999999999999,Bang,-19.855610116484925,-22.736724115466124,-16.974496117503726,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09499999999999999,S0,-19.27384816720115,-22.374620622053694,-16.17307571234861,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09499999999999999,S1,-23.104975689077875,-27.76263559291924,-18.447315785236512,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09499999999999999,S4,-26.986945958443968,-30.255867953520355,-23.718023963367582,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09499999999999999,S4_minus_S1,-3.881970269366093,-6.950663301910236,-0.8132772368219503,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.09999999999999998,Bang,-21.733091075951663,-24.666279090758383,-18.799903061144942,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09999999999999998,S0,-21.240003533280877,-24.416437772577275,-18.06356929398448,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09999999999999998,S1,-25.310355153516213,-30.186691229549545,-20.43401907748288,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09999999999999998,S4,-29.449590418569322,-32.81495145982497,-26.084229377313676,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.09999999999999998,S4_minus_S1,-4.1392352650531095,-7.401760203859055,-0.8767103262471632,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.10499999999999998,Bang,-23.631549476306297,-26.6199789992571,-20.643119953355495,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10499999999999998,S0,-23.228127115741373,-26.48393093720679,-19.972323294275956,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10499999999999998,S1,-27.54037572928906,-32.64142402601573,-22.439327432562393,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10499999999999998,S4,-31.93975045925474,-35.405710559132196,-28.47379035937728,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10499999999999998,S4_minus_S1,-4.399374729965679,-7.858002667634338,-0.9407467922970199,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.10999999999999997,Bang,-25.551338869923335,-28.59813074222953,-22.50454699761714,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10999999999999997,S0,-25.238589165420528,-28.577372580438997,-21.89980575040206,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10999999999999997,S1,-29.795452716025636,-35.126947322171354,-24.46395810987992,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10999999999999997,S4,-34.457889826239985,-38.028464879852145,-30.88731477262783,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.10999999999999997,S4_minus_S1,-4.6624371102143485,-8.319461867041273,-1.005412353387423,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.11499999999999998,Bang,-27.492820799061484,-30.601047301764176,-24.38459429635879,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11499999999999998,S0,-27.271768300406805,-30.697046759599683,-23.846489841213927,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11499999999999998,S1,-32.07601079865755,-37.643430096216875,-26.508591501098223,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11499999999999998,S4,-37.00448274539456,-40.68355411068462,-33.325411380104505,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11499999999999998,S4_minus_S1,-4.928471946737012,-8.786213495190728,-1.0707303982832976,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.11999999999999998,Bang,-29.456365022848928,-32.6290487671145,-26.283681278583355,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11999999999999998,S0,-29.328051743745192,-32.84325013678389,-25.812853350706497,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11999999999999998,S1,-34.38248431404665,-40.19109105920104,-28.573877568892254,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11999999999999998,S4,-39.58001422044863,-43.37133862152758,-35.78868981936969,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.11999999999999998,S4_minus_S1,-5.197529906401982,-9.258337243209187,-1.1367225695947782,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.12499999999999997,Bang,-31.44234975205108,-34.68246329485527,-28.20223620924689,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12499999999999997,S0,-31.407835569293155,-35.01629281593208,-27.799378322654224,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12499999999999997,S1,-36.715317526754475,-42.77019356671085,-30.660441486798103,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12499999999999997,S4,-42.18498034093187,-46.092199861072494,-38.27776082079125,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12499999999999997,S4_minus_S1,-5.469662814177397,-9.735916427404401,-1.203409200950393,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.12999999999999998,Bang,-33.451161891933715,-36.761627998642496,-30.14069578522493,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12999999999999998,S0,-33.511524956054316,-37.216499027624224,-29.806550884484405,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12999999999999998,S1,-39.07496491432101,-45.38104127946801,-32.76888854917401,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12999999999999998,S4,-44.819888600731026,-48.84654058489386,-40.793236616568194,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.12999999999999998,S4_minus_S1,-5.744923686410019,-10.219037723275555,-1.270809649544482,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.13499999999999998,Bang,-35.483197293549104,-38.86688976759355,-32.09950481950466,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13499999999999998,S0,-35.63953445133295,-39.44420768462233,-31.834861218043567,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13499999999999998,S1,-41.46189146243745,-48.023974492732414,-34.899808432142486,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13499999999999998,S4,-47.48525822769548,-51.6347849602984,-43.33573149509257,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13499999999999998,S4_minus_S1,-6.023366765258032,-10.707790977760503,-1.3389425527555625,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.13999999999999999,Bang,-37.53886101378793,-40.998606014941636,-34.07911601263422,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13999999999999999,S0,-37.79228824306831,-41.69977283050307,-33.884803655633554,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13999999999999999,S1,-43.87657297041571,-50.69936705297047,-37.05377888786094,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13999999999999999,S4,-50.18162052474092,-54.45737858667709,-45.905862462804755,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.13999999999999999,S4_minus_S1,-6.305047554325213,-11.202269079733554,-1.4078260289168716,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.145,Bang,-39.618567584555855,-43.157145360667705,-36.079989808444004,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.145,S0,-39.97022044172455,-43.983564002267315,-35.956876881181785,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.145,S1,-46.319496367376175,-53.40762378450654,-39.23136895024581,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.145,S4,-52.9095192229214,-57.31478846306312,-48.50424998277969,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.145,S4_minus_S1,-6.590022855545229,-11.7025678745842,-1.4774778365062575,paired net benefit scenario; no clinical cost-effectiveness claim
+overall,0.15,Bang,-41.72274129145047,-45.34288825330762,-38.102594329593316,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.15,S0,-42.1737753721297,-46.29596652589952,-38.05158421835987,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.15,S1,-48.791160039595,-56.1491783559281,-41.4331417232619,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.15,S4,-55.66951084696282,-60.20750292830317,-51.131518765622474,"illustrative value weighting, not a clinically selected threshold range"
+overall,0.15,S4_minus_S1,-6.8783508073678234,-12.20878611269943,-1.5479155020362168,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.01,Bang,19.24636787285181,12.10362487795842,26.3891108677452,"illustrative value weighting, not a clinically selected threshold range"
+old,0.01,S0,19.597616332370695,12.514547968509937,26.680684696231452,"illustrative value weighting, not a clinically selected threshold range"
+old,0.01,S1,19.034081915446777,11.83773730437498,26.230426526518574,"illustrative value weighting, not a clinically selected threshold range"
+old,0.01,S4,19.429076648583838,12.3997529723075,26.458400324860175,"illustrative value weighting, not a clinically selected threshold range"
+old,0.01,S4_minus_S1,0.3949947331370609,-0.9173787415023977,1.7073682077765195,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.015,Bang,15.254649362923843,8.077391765257316,22.431906960590368,"illustrative value weighting, not a clinically selected threshold range"
+old,0.015,S0,16.363731104592624,9.219563796404607,23.50789841278064,"illustrative value weighting, not a clinically selected threshold range"
+old,0.015,S1,14.96005974635565,7.681245672034906,22.238873820676396,"illustrative value weighting, not a clinically selected threshold range"
+old,0.015,S4,14.45155927116548,7.3865537488166755,21.516564793514284,"illustrative value weighting, not a clinically selected threshold range"
+old,0.015,S4_minus_S1,-0.5085004751901696,-2.0570467266528607,1.0400457762725215,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.019999999999999997,Bang,11.222199031466003,4.007705281626571,18.436692781305435,"illustrative value weighting, not a clinically selected threshold range"
+old,0.019999999999999997,S0,13.096847047959672,5.878298925501351,20.315395170417993,"illustrative value weighting, not a clinically selected threshold range"
+old,0.019999999999999997,S1,10.84446592247788,3.4200526257363375,18.26887921921942,"illustrative value weighting, not a clinically selected threshold range"
+old,0.019999999999999997,S4,9.423250900100001,2.3221994312086,16.524302368991403,"illustrative value weighting, not a clinically selected threshold range"
+old,0.019999999999999997,S4_minus_S1,-1.4212150223778792,-3.4243857694327944,0.5819557246770359,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.024999999999999998,Bang,7.148390235070131,-0.10610247508300308,14.402882945223265,"illustrative value weighting, not a clinically selected threshold range"
+old,0.024999999999999998,S0,9.796456488181768,2.490240521977042,17.102672454386493,"illustrative value weighting, not a clinically selected threshold range"
+old,0.024999999999999998,S1,6.686660879893665,-0.9447699560319549,14.318091715819286,"illustrative value weighting, not a clinically selected threshold range"
+old,0.024999999999999998,S4,4.343370135485127,-2.7940969819646915,11.480837252934947,"illustrative value weighting, not a clinically selected threshold range"
+old,0.024999999999999998,S4_minus_S1,-2.343290744408538,-4.911417954551359,0.2248364657342825,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.03,Bang,3.032583409845433,-4.264710824266966,10.329877643957833,"illustrative value weighting, not a clinically selected threshold range"
+old,0.03,S0,6.4620412834576975,-0.9450754552629492,13.869158022178343,"illustrative value weighting, not a clinically selected threshold range"
+old,0.03,S1,2.4859918677982797,-5.410939765450571,10.38292350104713,"illustrative value weighting, not a clinically selected threshold range"
+old,0.03,S4,-0.7888805339195883,-7.963138718985128,6.3853776511459515,"illustrative value weighting, not a clinically selected threshold range"
+old,0.03,S4_minus_S1,-3.274872401717868,-6.464778802454008,-0.08496600098172769,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.034999999999999996,Bang,-1.1258742633090506,-8.468810813000811,6.21706228638271,"illustrative value weighting, not a clinically selected threshold range"
+old,0.034999999999999996,S0,3.093072553296075,-4.428069354825781,10.61421446141793,"illustrative value weighting, not a clinically selected threshold range"
+old,0.034999999999999996,S1,-1.7582073931271118,-9.975332392807662,6.458917606553438,"illustrative value weighting, not a clinically selected threshold range"
+old,0.034999999999999996,S4,-5.9743151480849725,-13.185745655352925,1.2371153591829787,"illustrative value weighting, not a clinically selected threshold range"
+old,0.034999999999999996,S4_minus_S1,-4.216107754957861,-8.061110820995944,-0.37110468891977666,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.039999999999999994,Bang,-5.3276492038922285,-12.719105547679408,2.0638071398949505,"illustrative value weighting, not a clinically selected threshold range"
+old,0.039999999999999994,S0,-0.3109896011380613,-7.959124002158408,7.337144799882285,"illustrative value weighting, not a clinically selected threshold range"
+old,0.039999999999999994,S1,-6.046617063020474,-14.634363725725752,2.5411295996848047,"illustrative value weighting, not a clinically selected threshold range"
+old,0.039999999999999994,S4,-11.21376470614791,-18.462754747307883,-3.964774664987937,"illustrative value weighting, not a clinically selected threshold range"
+old,0.039999999999999994,S4_minus_S1,-5.167147643127436,-9.6895972601499,-0.6446980261049706,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.045,Bang,-9.573421787832295,-17.01631054733971,-2.130533028324879,"illustrative value weighting, not a clinically selected threshold range"
+old,0.045,S0,-3.75069638546157,-11.538591609667883,4.037198838744744,"illustrative value weighting, not a clinically selected threshold range"
+old,0.045,S1,-10.379931546211157,-19.384324176954323,-1.3755389154679918,"illustrative value weighting, not a clinically selected threshold range"
+old,0.045,S4,-16.50807761036859,-23.795020478969192,-9.22113474176799,"illustrative value weighting, not a clinically selected threshold range"
+old,0.045,S4_minus_S1,-6.128146064157434,-11.34481501887247,-0.9114771094423979,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.049999999999999996,Bang,-13.863886714761207,-21.36115411903933,-6.366619310483085,"illustrative value weighting, not a clinically selected threshold range"
+old,0.049999999999999996,S0,-7.226610609620057,-15.166801096566564,0.7135798773264508,"illustrative value weighting, not a clinically selected threshold range"
+old,0.049999999999999996,S1,-14.758859866067002,-24.221632387893585,-5.2960873442404175,"illustrative value weighting, not a clinically selected threshold range"
+old,0.049999999999999996,S4,-21.85812012410737,-29.18341532359534,-14.532824924619398,"illustrative value weighting, not a clinically selected threshold range"
+old,0.049999999999999996,S4_minus_S1,-7.099260258040367,-13.023865998457111,-1.1746545176236234,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.05499999999999999,Bang,-18.199753386948622,-25.754377755561983,-10.645129018335261,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05499999999999999,S0,-10.739306994880746,-18.844065509511136,-2.6345484802503556,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05499999999999999,S1,-19.18412605174142,-29.143002952440092,-9.225249151042746,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05499999999999999,S4,-27.264776844340734,-34.62883021948737,-19.900723469194094,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05499999999999999,S4_minus_S1,-8.080650792599315,-14.72513854689492,-1.4361630383037092,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.05999999999999999,Bang,-22.58174630032952,-30.196736555625705,-14.966756045033334,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05999999999999999,S0,-14.289372490622927,-22.570689275951132,-6.008055705294723,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05999999999999999,S1,-23.656469537263444,-34.14553962761888,-13.167399446908007,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05999999999999999,S4,-32.72895118925743,-40.13217506108038,-25.325727317434477,"illustrative value weighting, not a clinically selected threshold range"
+old,0.05999999999999999,S4_minus_S1,-9.072481651993986,-16.447726668801273,-1.6972366351866972,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.06499999999999999,Bang,-27.01060544807813,-34.68899966668248,-19.332211229473785,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06499999999999999,S0,-17.877406601292844,-26.346975074488434,-9.407838128097252,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06499999999999999,S1,-28.176645573432754,-39.2267723731356,-17.126518773729906,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06499999999999999,S4,-38.25156590149946,-45.69437920579205,-30.80875259720687,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06499999999999999,S4_minus_S1,-10.074920328066707,-18.191136601251706,-1.9587040548817054,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.06999999999999999,Bang,-31.487086737200393,-39.231950750321104,-23.74222272407968,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06999999999999999,S0,-21.50402172390545,-30.17323016353517,-12.834813284275729,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06999999999999999,S1,-32.745425653001746,-44.38465662106162,-21.106194684941872,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06999999999999999,S4,-43.83356356763656,-51.31639199722105,-36.35073513805207,"illustrative value weighting, not a clinically selected threshold range"
+old,0.06999999999999999,S4_minus_S1,-11.088137914634814,-19.955128794996146,-2.221147034273482,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.07499999999999998,Bang,-36.011962418637474,-43.82638847022001,-28.19753636705494,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07499999999999998,S0,-25.169843496492238,-34.04977206530559,-16.289914927678886,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07499999999999998,S1,-37.36359794964714,-49.617549923823134,-25.109645975471153,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07499999999999998,S4,-49.47590715448864,-56.99918330531412,-41.95263100366316,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07499999999999998,S4_minus_S1,-12.112309204841495,-21.739628088119726,-2.484990321563263,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.07999999999999999,Bang,-40.58602153139453,-48.473127002544935,-32.69891606024412,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07999999999999999,S0,-28.875511157911493,-37.97693355241494,-19.774088763408045,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07999999999999999,S1,-42.03196777125609,-54.92417700963843,-29.139758532873756,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07999999999999999,S4,-55.17958056293695,-62.74374408414735,-47.615417041726545,"illustrative value weighting, not a clinically selected threshold range"
+old,0.07999999999999999,S4_minus_S1,-13.147612791680857,-23.54467025193883,-2.750555331422884,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.08499999999999998,Bang,-45.2100703612309,-53.172996568648045,-37.24714415381375,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08499999999999998,S0,-32.62167791945555,-41.955066926475936,-23.288288912435164,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08499999999999998,S1,-46.75135802807388,-60.303590558398724,-33.19912549774904,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08499999999999998,S4,-60.94558919989288,-68.55108694799515,-53.34009145179061,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08499999999999998,S4_minus_S1,-14.194231171818998,-25.370368920081425,-3.0180934235565715,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.08999999999999998,Bang,-49.88493291447205,-57.92684398990233,-41.843021839041775,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08999999999999998,S0,-36.40901134870889,-45.984547610964555,-26.83347508645322,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08999999999999998,S1,-51.52260971628526,-65.75513214555241,-37.29008728701812,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08999999999999998,S4,-66.77496056912307,-74.42224676639073,-59.127674371855406,"illustrative value weighting, not a clinically selected threshold range"
+old,0.08999999999999998,S4_minus_S1,-15.252350852837807,-27.216894439357283,-3.2878072663183335,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.09499999999999999,Bang,-54.61145140752806,-62.735533264496375,-46.48736955055974,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09499999999999999,S0,-40.23819376613076,-50.06577710432411,-30.41061042793741,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09499999999999999,S1,-56.34658241762607,-71.27839579899661,-41.41476903625552,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09499999999999999,S4,-72.66874488165965,-80.35828127891222,-64.97920848440708,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09499999999999999,S4_minus_S1,-16.322162464033582,-29.08445995800347,-3.5598649700636926,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.09999999999999998,Bang,-59.39048677272908,-67.59994616602067,-51.181027379437495,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09999999999999998,S0,-44.109922654857314,-54.1991853546415,-34.02065995507313,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09999999999999998,S1,-61.22415481564843,-76.87319531413456,-45.5751143171623,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09999999999999998,S4,-78.62801568655776,-86.36027173046173,-70.89575964265379,"illustrative value weighting, not a clinically selected threshold range"
+old,0.09999999999999998,S4_minus_S1,-17.403860870909327,-30.973312053506262,-3.8344096883123893,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.10499999999999998,Bang,-64.22291918111677,-72.520982863698,-55.92485549853553,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10499999999999998,S0,-48.024911084240046,-58.38523262556414,-37.66458954291595,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10499999999999998,S1,-66.15622522929115,-82.53953568258149,-49.77291477600082,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10499999999999998,S4,-84.65387052279553,-92.42932352783862,-76.87841751775244,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10499999999999998,S4_minus_S1,-18.497645293504377,-32.88372429141475,-4.111566295594004,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.10999999999999997,Bang,-69.10964858285706,-77.49956256414296,-60.71973460157117,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10999999999999997,S0,-51.98388814766078,-62.624410925904606,-41.34336536941695,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10999999999999997,S1,-71.14371216443547,-88.27758854400868,-54.00983578486226,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10999999999999997,S4,-90.74743159314829,-98.56656691844444,-82.92829626785215,"illustrative value weighting, not a clinically selected threshold range"
+old,0.10999999999999997,S4_minus_S1,-19.60371942871282,-34.815992726091466,-4.391446131334174,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.11499999999999998,Bang,-74.05159526597299,-82.53662417458472,-65.56656635736127,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11499999999999998,S0,-55.98759941518796,-66.91724507404581,-45.05795375633011,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11499999999999998,S1,-76.1875548841577,-94.08767134331144,-58.28743842500397,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11499999999999998,S4,-96.9098464609062,-104.77315769199498,-89.04653522981741,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11499999999999998,S4_minus_S1,-20.72229157674849,-36.770432718416274,-4.674150435080705,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.11999999999999998,Bang,-79.04970043412433,-87.63312698754277,-70.4662738807059,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11999999999999998,S0,-60.03680740166432,-71.26429346410464,-48.809321339224006,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11999999999999998,S1,-81.28871399842224,-99.97022978020982,-62.60719821663466,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11999999999999998,S4,-103.14228877034317,-111.05027790615405,-95.23429963453229,"illustrative value weighting, not a clinically selected threshold range"
+old,0.11999999999999998,S4_minus_S1,-21.853574771920933,-38.74737666574404,-4.9597728780978265,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.12499999999999997,Bang,-84.10492680419736,-92.79005138701662,-75.4198022213781,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12499999999999997,S0,-64.13229205084328,-75.66614859491257,-52.59843550677398,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12499999999999997,S1,-86.44817207399262,-105.92582311898407,-66.97052102900118,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12499999999999997,S4,-109.44595899188796,-117.39913663704633,-101.4927813467296,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12499999999999997,S4_minus_S1,-22.99778691789534,-40.74717237624464,-5.248401459546038,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.12999999999999998,Bang,-89.21825922450117,-98.00839957632657,-80.42811887267577,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12999999999999998,S0,-68.27485123621967,-80.12343741607404,-56.4262650563653,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12999999999999998,S1,-91.6669342653742,-111.9551119468943,-71.37875658385408,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12999999999999998,S4,-115.8220851929908,-123.82097075565008,-107.82319963033152,"illustrative value weighting, not a clinically selected threshold range"
+old,0.12999999999999998,S4_minus_S1,-24.155150927616603,-42.7701819067773,-5.540119948455903,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.13499999999999998,Bang,-94.39070531440385,-103.28919632782825,-85.49221430097944,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13499999999999998,S0,-72.46530127923049,-84.63682153829416,-60.29378102016682,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13499999999999998,S1,-96.9460289676388,-118.05884800962338,-75.83320992565422,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13499999999999998,S4,-122.27192383572485,-130.31704573111625,-114.22680194033343,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13499999999999998,S4_minus_S1,-25.325894868086053,-44.81678074000229,-5.835008996169815,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.13999999999999999,Bang,-99.62329612628213,-108.63348975481709,-90.61310249774716,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13999999999999999,S0,-76.70447748553214,-89.20699734826466,-64.20195762279961,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13999999999999999,S1,-102.28650849202272,-124.23786579852619,-80.33515118551925,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13999999999999999,S4,-128.7967606022116,-136.8886564621111,-120.7048647423121,"illustrative value weighting, not a clinically selected threshold range"
+old,0.13999999999999999,S4_minus_S1,-26.510252110188887,-46.88735721391011,-6.13314700646767,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.145,Bang,-104.917086830697,-114.0423521060344,-95.7918215553596,"illustrative value weighting, not a clinically selected threshold range"
+old,0.145,S0,-80.99323470009462,-93.83469606194487,-68.15177333824437,"illustrative value weighting, not a clinically selected threshold range"
+old,0.145,S1,-107.6894497652299,-130.49307561085342,-84.88582391960635,"illustrative value weighting, not a clinically selected threshold range"
+old,0.145,S4,-135.3979112490082,-143.53712813732815,-127.25869436068822,"illustrative value weighting, not a clinically selected threshold range"
+old,0.145,S4_minus_S1,-27.708461483778294,-48.98231214223058,-6.434610825326004,paired net benefit scenario; no clinical cost-effectiveness claim
+old,0.15,Bang,-110.27315742575206,-119.51688058328922,-101.0294342682149,"illustrative value weighting, not a clinically selected threshold range"
+old,0.15,S0,-85.33244788188723,-98.52068374423332,-72.14421201954114,"illustrative value weighting, not a clinically selected threshold range"
+old,0.15,S1,-113.15595505341595,-136.82545784708674,-89.48645225974516,"illustrative value weighting, not a clinically selected threshold range"
+old,0.15,S4,-142.0767224916494,-150.26381712637126,-133.88962785692755,"illustrative value weighting, not a clinically selected threshold range"
+old,0.15,S4_minus_S1,-28.920767438233455,-51.10205858152909,-6.73947629493782,paired net benefit scenario; no clinical cost-effectiveness claim

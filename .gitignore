@@ -1,0 +1,13 @@
+raw/
+reproduced*/
+qa/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.env
+.env.*
+reproducibility/main_inputs/prepared.rds
+reproducibility/main_inputs/full_base.csv
+reproducibility/main_archive/evaluation_predictions.csv
+reproducibility/main_archive/development_oof.csv

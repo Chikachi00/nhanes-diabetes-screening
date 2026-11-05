@@ -1,0 +1,20 @@
+period,order,stage,n,excluded_from_previous,observed_positive_n
+dev,0,Interviewed source participants,30442,0,1883
+dev,1,"MEC examined, positive examination weight",29353,1089,1883
+dev,2,Age ≥20,17085,12268,1860
+dev,3,Not pregnant,16903,182,1860
+dev,4,No self-reported diabetes: DIQ010=2,14453,2450,479
+dev,5,Observed HbA1c,13657,796,479
+dev,6,Both access items known,13645,12,477
+dev,7,Bang score assessable,12781,864,436
+dev,8,Common model complete-case cohort,12781,0,436
+eval,0,Interviewed source participants,29400,0,2054
+eval,1,"MEC examined, positive examination weight",28061,1339,2054
+eval,2,Age ≥20,16327,11734,2040
+eval,3,Not pregnant,16137,190,2037
+eval,4,No self-reported diabetes: DIQ010=2,13323,2814,390
+eval,5,Observed HbA1c,12724,599,390
+eval,6,Both access items known,12699,25,389
+eval,7,Bang score assessable,11848,851,356
+eval,8,Common model complete-case cohort,11848,0,356
+eval,20,MI branch: observed HbA1c target population,12724,599,390

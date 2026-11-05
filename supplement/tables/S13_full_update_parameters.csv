@@ -1,0 +1,3 @@
+method,a,b,iterations,max_score,role
+intercept,-0.37659743245340666,1.0,4,3.976191400670314e-15,all_evaluation_update_not_validation
+joint,-0.9790400120390079,0.800656001271917,4,1.606796308063974e-13,all_evaluation_update_not_validation
