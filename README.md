@@ -1,6 +1,6 @@
 # NHANES diabetes screening analysis
 
-This repository-ready package accompanies the authors' v8 manuscript. It contains the frozen main equation, model development and evaluation code, supplementary analyses, aggregate results, resampling metrics, and figure source data. The manuscript compares referral rules under operational constraints. Its score cutoffs are operational cutpoints, not validated absolute-risk thresholds.
+This repository accompanies the authors' v10 preparation for Frontiers in Public Health. The main equation and cut-offs remain frozen from v8; the reviewer-response analyses were added in v9. The v10 update clarifies reporting and enables the new comparator script to run on Windows. It contains the frozen main equation, model development and evaluation code, supplementary analyses, aggregate results, resampling metrics, and figure source data. The manuscript compares referral rules under operational constraints. Its score cutoffs are operational cutpoints, not validated absolute-risk thresholds.
 
 ## What runs directly
 
@@ -62,6 +62,7 @@ Local calibration requires the companion frozen main inputs. The AUC replay requ
 | `figures/source_data/` | Frozen aggregate inputs for five figures |
 | `archive/` | Original figure and cohort-export scripts, with historical path assumptions |
 | `tools/` | Portable figure renderer and release verification |
+| `analysis/reviewer_response_v9/` | v9 reviewer-response scripts and their aggregate outputs (see its README) |
 
 Legacy `S0/S1/S4` names in the code correspond to manuscript `R0/R1/R4`. Historical filenames ending in v5 or v7 identify code lineage; they do not mean that an older manuscript should replace v8. `SOURCE_PROVENANCE.json` records unchanged source files and deliberate exclusions. All legacy scientific scripts retain their original bytes. The portable figure wrapper changes input/output paths only; v8 submission images remain authoritative because font and raster settings can vary.
 
@@ -72,3 +73,8 @@ The original `auc_v7.py` writes historical provenance prose about retaining the 
 Repository: [Chikachi00/nhanes-diabetes-screening](https://github.com/Chikachi00/nhanes-diabetes-screening). This deposit contains core analysis code, frozen aggregate outputs and resampling metrics. Participant-level derived inputs and saved R objects are supplied separately in the companion reproduction archive. No software licence has been selected; no open-source licence or DOI is asserted here. Author declarations and institutional ethics documentation are not part of this code deposit.
 
 `.gitattributes` preserves the archived file bytes so SHA-256 checks work after cloning on Windows.
+
+
+## v10 execution note
+
+The new analyses in `analysis/reviewer_response_v9/` additionally require the R package `haven` (now listed in `R_packages.txt`). `comparator_decomp.R` uses one process on Windows and four on platforms supporting forking; the fitting and resampling calculations are unchanged. Progress is printed every 50 replicates. The companion participant-level inputs remain necessary for these scripts. Internal numerical reproduction is distinct from independent external validation. See `RELEASE_NOTES_v10.md` for the recorded checks.
