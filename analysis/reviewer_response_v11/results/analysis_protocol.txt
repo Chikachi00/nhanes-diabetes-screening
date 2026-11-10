@@ -1,0 +1,14 @@
+v11 analysis specified before viewing numerical output
+Post hoc evaluation-period sensitivity; no new external validation or strategy selection.
+Primary BP mean: all valid readings 1-4; a single available reading is retained.
+Composite: self-reported history OR current HBP medication OR mean SBP>=140 OR DBP>=90.
+Refused/dont know are missing. Medication skips set negative only after explicit upstream no.
+Common sample: all three hypertension definitions ascertainable. Strict BP sample also tabulated.
+Main equation and original development-derived R0/R1 cut-offs unchanged.
+Original 1000 Rao-Wu multiplier columns and stored refitted parameters reused in original order.
+Equal-budget equation threshold reselected in evaluation within every replicate; ties retained.
+Threshold minimises absolute distance to target referral among attainable complete tie groups.
+Performance intervals: estimate +/-1.96 bootstrap SD; percentile intervals also exported.
+Nested R1-R0 incremental metrics: percentile intervals shown, with zero-event replicate counts.
+Access gap: high-minus-low sensitivity; positive gap-change means widening.
+Age standard: combined evaluation HbA1c-positive age distribution re-estimated each replicate.

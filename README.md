@@ -1,6 +1,6 @@
 # NHANES diabetes screening analysis
 
-This repository accompanies the authors' v10 preparation for Frontiers in Public Health. The main equation and cut-offs remain frozen from v8; the reviewer-response analyses were added in v9. The v10 update clarifies reporting and enables the new comparator script to run on Windows. It contains the frozen main equation, model development and evaluation code, supplementary analyses, aggregate results, resampling metrics, and figure source data. The manuscript compares referral rules under operational constraints. Its score cutoffs are operational cutpoints, not validated absolute-risk thresholds.
+This repository accompanies the authors' v11 preparation for Frontiers in Public Health. The main equation and cut-offs remain frozen from v8; the reviewer-response analyses were added in v9. The v10 update clarifies reporting and enables the new comparator script to run on Windows. It contains the frozen main equation, model development and evaluation code, supplementary analyses, aggregate results, resampling metrics, and figure source data. The manuscript compares referral rules under operational constraints. Its score cutoffs are operational cutpoints, not validated absolute-risk thresholds.
 
 ## What runs directly
 
@@ -78,3 +78,8 @@ Repository: [Chikachi00/nhanes-diabetes-screening](https://github.com/Chikachi00
 ## v10 execution note
 
 The new analyses in `analysis/reviewer_response_v9/` additionally require the R package `haven` (now listed in `R_packages.txt`). `comparator_decomp.R` uses one process on Windows and four on platforms supporting forking; the fitting and resampling calculations are unchanged. Progress is printed every 50 replicates. The companion participant-level inputs remain necessary for these scripts. Internal numerical reproduction is distinct from independent external validation. See `RELEASE_NOTES_v10.md` for the recorded checks.
+
+
+## v11 hypertension ascertainment and Figure 5
+
+`analysis/reviewer_response_v11/` adds six-cycle public BPX ascertainment, common-sample and strict-BP-sample sensitivity comparisons, 1,000 paired replicate exports and the Figure 5 builder. The main self-report-based equation and R0/R1 thresholds remain unchanged. Composite hypertension ascertainment improves Bang performance; the fixed-rule R0 sensitivity gain falls to 7.66 pp (normal 95% -0.34 to 15.66) in the common sample. Both normal and percentile equal-budget intervals are supplied because their lower bounds differ around zero. See the subdirectory README for reproduction commands and source-file provenance. Independent numerical checks are computational verification, not external validation.

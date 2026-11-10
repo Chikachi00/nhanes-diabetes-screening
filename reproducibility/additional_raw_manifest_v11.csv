@@ -1,0 +1,7 @@
+file,CDC_URL,bytes,sha256,cycle
+BPX_E.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2007/DataFiles/BPX_E.xpt,2113200,5a0303e68e0a4d7ebdbd2bc82f87852c31e44f1733782e107219bed9303baed5,E
+BPX_F.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2009/DataFiles/BPX_F.xpt,2219280,d09af545c732e5fb72c437e870823ec5d9efaed1ef3522210dcc1d8f47b9be57,F
+BPX_G.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2011/DataFiles/BPX_G.xpt,2021600,1dd66110f41465d601cd54f1e3c6010baafb9375f09fbcaa3aef2536876146fd,G
+BPX_H.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2013/DataFiles/BPX_H.xpt,1809600,b6641efc30ac9b9de328dfbf4110d0d120439aadca2c2bc89f2e77310d1a0c8e,H
+BPX_I.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2015/DataFiles/BPX_I.xpt,1607120,45d5c9fa101ccc6da82241bd45c99611595e699665eed2cfed232e9070b52cc1,I
+BPX_J.xpt,https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/BPX_J.xpt,1466000,f98f1d9a4c18173e715c749b4294f6f1525140d5ad5751316bb17cc038fb3423,J

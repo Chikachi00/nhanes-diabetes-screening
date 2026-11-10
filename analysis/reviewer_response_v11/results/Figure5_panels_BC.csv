@@ -1,0 +1,5 @@
+panel,measure,estimate,lower95,upper95,interval,strategy
+B,referrals_per1000,39.2292101826741,0.0,65.0530787265994,percentile,
+B,found_per1000,0.259604560055665,0.0,0.693869017841801,percentile,
+C,change_in_access_gap_pp,-0.385560602899965,-13.2498150453885,12.4786938395886,normal,R0
+C,change_in_access_gap_pp,0.385822187414313,-12.5500683646462,13.3217127394748,normal,R1

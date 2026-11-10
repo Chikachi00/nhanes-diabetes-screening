@@ -1,0 +1,11 @@
+{
+  "width": 3780,
+  "height": 3060,
+  "dpi": 450,
+  "source": "aggregate exported results",
+  "panels": [
+    "budget curve",
+    "nested R1-R0 increments",
+    "access gap change"
+  ]
+}
