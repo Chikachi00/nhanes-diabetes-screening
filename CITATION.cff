@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this software project when reusing the analysis code."
+title: "NHANES diabetes screening analysis code"
+type: software
+authors:
+  - name: "nhanes-diabetes-screening contributors"
+repository-code: "https://github.com/Chikachi00/nhanes-diabetes-screening"
+url: "https://github.com/Chikachi00/nhanes-diabetes-screening"
+license: MIT

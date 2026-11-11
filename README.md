@@ -70,7 +70,7 @@ The original `auc_v7.py` writes historical provenance prose about retaining the 
 
 ## Publication and reuse status
 
-Repository: [Chikachi00/nhanes-diabetes-screening](https://github.com/Chikachi00/nhanes-diabetes-screening). This deposit contains core analysis code, frozen aggregate outputs and resampling metrics. Participant-level derived inputs and saved R objects are supplied separately in the companion reproduction archive. No software licence has been selected; no open-source licence or DOI is asserted here. Author declarations and institutional ethics documentation are not part of this code deposit.
+Repository: [Chikachi00/nhanes-diabetes-screening](https://github.com/Chikachi00/nhanes-diabetes-screening). This deposit contains core analysis code, frozen aggregate outputs and resampling metrics. Participant-level derived inputs and saved R objects are supplied separately in the companion reproduction archive. The project source code and its associated software documentation are licensed under the MIT License (see LICENSE). Cite the software using CITATION.cff. This licence does not relicense NHANES data, manuscript text, or third-party dependencies; no DOI is asserted here. Author declarations and institutional ethics documentation are not part of this code deposit.
 
 `.gitattributes` preserves the archived file bytes so SHA-256 checks work after cloning on Windows.
 
