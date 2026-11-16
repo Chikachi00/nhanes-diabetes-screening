@@ -9,8 +9,8 @@ From the restored root, with R packages `haven` and the original project depende
 ```sh
 python reproducibility/download_nhanes.py raw
 python reproducibility/download_bpx_v11.py raw
-Rscript analysis/reviewer_response_v11/hypertension_and_budget.R . raw v11_reproduced 1000
-python analysis/reviewer_response_v11/figure5.py . v11_reproduced v11_figures
+Rscript analysis/hypertension_budget/hypertension_and_budget.R . raw v11_reproduced 1000
+python analysis/hypertension_budget/figure5.py . v11_reproduced v11_figures
 ```
 
 The R script reads `prepared.rds`, the original archived coefficients/thresholds, original evaluation predictions and the original Rao-Wu multiplier columns. It reuses their matched replicate order. A refitted main-equation prediction is reconstructed for every replicate; no model is reselected. The script computes 1,000 paired evaluation comparisons, common-sample and strict-BP-sample metrics, descriptive hypertension measures and a budget curve. It writes its analytic rules before numerical estimates. Runtime is several minutes on Windows.

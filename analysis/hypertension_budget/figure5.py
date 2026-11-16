@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 from PIL import Image
 C,A,O=map(Path,sys.argv[1:4]);O.mkdir(parents=True,exist_ok=True)
-s=pd.read_csv(C/'analysis/reviewer_response_v9/results/S21_comparator_summary.csv').set_index('key')
+s=pd.read_csv(C/'analysis/comparator_calibration/results/S21_comparator_summary.csv').set_index('key')
 curve=pd.read_csv(A/'Figure5_equation_budget_curve.csv')
 bc=pd.read_csv(A/'Figure5_Bang_attainable_points.csv')
 blue='#146B8C';orange='#C76529';grey='#4E5963';green='#34765A'

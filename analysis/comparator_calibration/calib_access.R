@@ -1,4 +1,4 @@
-# Reviewer-response analyses C (subgroup and near-cut-off calibration) and D (self-report completeness by access)
+# Comparator decomposition and calibration analyses C (subgroup and near-cut-off calibration) and D (self-report completeness by access)
 args<-commandArgs(TRUE);V<-args[1];out<-args[2];dir.create(out,showWarnings=FALSE,recursive=TRUE)
 suppressMessages({library(survey);library(haven)})
 options(survey.lonely.psu='adjust')

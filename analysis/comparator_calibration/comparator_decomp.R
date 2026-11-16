@@ -1,4 +1,4 @@
-# Reviewer-response analyses A (Bang mapping stability), B (same-information model), E (equal budget)
+# Comparator decomposition analyses A (Bang mapping stability), B (same-information model), E (equal budget)
 # Uses frozen prepared.rds, original fit_l2 and threshold rules, and the original Rao-Wu multipliers.
 args<-commandArgs(TRUE); V<-args[1]; out<-args[2]; B<-as.integer(ifelse(length(args)>2,args[3],1000))
 suppressMessages({library(parallel);library(haven)})

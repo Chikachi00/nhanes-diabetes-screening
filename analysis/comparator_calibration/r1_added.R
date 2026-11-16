@@ -1,4 +1,4 @@
-# Reviewer-response analysis F: positivity among older adults referred by R1 but not by R0 (evaluation 2013-2018)
+# Comparator calibration analysis F: positivity among older adults referred by R1 but not by R0 (evaluation 2013-2018)
 args<-commandArgs(TRUE);V<-args[1];out<-args[2];dir.create(out,showWarnings=FALSE,recursive=TRUE)
 suppressMessages(library(survey));options(survey.lonely.psu='adjust')
 e<-readRDS(file.path(V,'reproducibility/main_inputs/prepared.rds'))$eval
