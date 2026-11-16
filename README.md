@@ -63,6 +63,7 @@ Local calibration requires the companion frozen main inputs. The AUC replay requ
 | `archive/` | Original figure and cohort-export scripts, with historical path assumptions |
 | `tools/` | Portable figure renderer and release verification |
 | `analysis/comparator_calibration/` | Comparator decomposition and calibration scripts and their aggregate outputs (see its README) |
+| `analysis/ranking_budget_stability/` | ranking, integer-budget and cycle-stability analyses (Supplementary Material S26–S27; Figures S6–S7) |
 
 Legacy `S0/S1/S4` names in the code correspond to manuscript `R0/R1/R4`. Historical filenames ending in v5 or v7 identify code lineage; they do not mean that an older manuscript should replace v8. `SOURCE_PROVENANCE.json` records unchanged source files and deliberate exclusions. All legacy scientific scripts retain their original bytes. The portable figure wrapper changes input/output paths only; v8 submission images remain authoritative because font and raster settings can vary.
 

@@ -1,0 +1,22 @@
+Material Passport: academic-research-suite / experiment-agent / user-authorised implementation
+Version: supplementary_check_20261111; post hoc; earlier v11 results already known.
+Rules written before this run produces new estimates; not study preregistration.
+Primary metric this round: paired weighted AUC difference, equation minus composite-hypertension Bang, common sample.
+Secondary: all integer Bang thresholds, nearest attainable equation budgets, fixed R0 and cycle stability.
+Point predictions, coefficients, self-report equation hypertension and development R0/R1 thresholds unchanged.
+Bootstrap reuses matched archived development parameter rows and Rao-Wu evaluation weights; no refitting.
+Main sample: v11 common; sensitivity: v11 strict BP sample. Cycle analyses use common sample.
+AUC uses weighted positive-negative pairs, awarding one half to ties; zero-weight rows excluded.
+All integer thresholds from minimum score through maximum+1 included, with max+1 yielding no referrals.
+Budget matching includes no-referral boundary and full tied probability groups.
+Closest referral fraction selected; equal distance within 1e-14 favours the lower referral fraction.
+Budget is reselected in each replicate and in each cycle/domain; matching does not use HbA1c labels.
+Equation grid: 10%-60% inclusive by 1 percentage point; pointwise intervals only.
+Normal intervals = point +/- 1.96 bootstrap SD; percentile intervals use R quantile type 7.
+Simultaneous family: both Bang definitions, both samples, all integer thresholds, paired sensitivity and positives per 1000.
+Simultaneous critical value = 95th percentile of maximum absolute centred replicate deviation / bootstrap SD.
+Only complete finite family columns with SD>1e-12 enter maximum; zero-SD contrasts have point-width intervals.
+Zero-referral PPV and any undefined denominator remain NA with explicit valid_B; never silently discarded.
+Core common-sample AUC and cutoff-5 comparisons must be finite in all requested replicates.
+No outcome improvement, causal effect, selection-adjusted confirmation or independent external validation claimed.
+Composite Bang uses more measurement information; activity mapping is still not identical to original Bang.
